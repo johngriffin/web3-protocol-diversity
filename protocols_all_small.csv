@@ -1,40 +1,26 @@
 category,name,forkedFrom,tvl,chain
-CEX,Binance CEX,,59159708160.97337,Multi-Chain
 Liquid Staking,Lido,,13356252260.083487,Multi-Chain
-CEX,OKX,,10156261305.588417,Multi-Chain
-CEX,Bitfinex,,8850820210.793688,Multi-Chain
 CDP,MakerDAO,,6137787869.549984,Ethereum
-Chain,Polygon Bridge & Staking,,6109225100.435584,Polygon
 Bridge,WBTC,,4144158103.3063827,Ethereum
 Dexes,Curve DEX,,4068118993.0276995,Multi-Chain
 Lending,AAVE V2,,3724667078.227557,Multi-Chain
 Lending,JustLend,,3605735188.5737433,Tron
-CEX,Crypto-com,,3262167263.632705,Multi-Chain
 Yield,Convex Finance,,3170395394.480654,Multi-Chain
 Bridge,JustCryptos,,3139758796.0,Tron
-CEX,Bybit,,2998871399.1668015,Multi-Chain
-CEX,Huobi,,2995918157.604725,Multi-Chain
 Dexes,Uniswap V3,,2855833574.428931,Multi-Chain
-CEX,Kucoin,,2550872845.0795693,Multi-Chain
 Liquid Staking,Coinbase Wrapped Staked ETH,,2112753525.7321825,Ethereum
 Services,Instadapp,,2098324504.3577952,Ethereum
 Liquid Staking,Rocket Pool,,1809938846.5413527,Ethereum
-CEX,Deribit,,1775891080.7738717,Multi-Chain
 Lending,AAVE V3,,1586409391.065643,Multi-Chain
-CEX,Bitget,,1575108493.8297613,Multi-Chain
-CEX,Gate-io,,1559840112.1264858,Multi-Chain
 Bridge,Multichain,,1476764278.947086,Multi-Chain
 Dexes,PancakeSwap AMM,['Uniswap V2'],1362101096.4507,Multi-Chain
 CDP,JustStables,,1344194104.097138,Tron
 Lending,Compound,,1277189222.5633569,Ethereum
 Dexes,Uniswap V2,,1170111659.931882,Ethereum
-CEX,MEXC,,1015322719.671451,Multi-Chain
 Dexes,Balancer V2,,903792352.0796114,Multi-Chain
-CEX,Bitmex,,785896720.0777825,Multi-Chain
 CDP,Liquity,,721557650.5114584,Ethereum
 Lending,Venus,['Compound'],706661838.503927,Binance
 Derivatives,GMX,,579224554.077512,Multi-Chain
-CEX,SwissBorg,,545974214.1311564,Multi-Chain
 Lending,Compound V3,,542750735.6101995,Multi-Chain
 Yield,Aura,,522162703.5715391,Ethereum
 Yield Aggregator,Yearn Finance,,460521941.9803801,Multi-Chain
@@ -43,9 +29,7 @@ Cross Chain,Stargate,,418093022.2720851,Multi-Chain
 Dexes,SUNSwap V1,,386058220.02051795,Tron
 Synthetics,Synthetix,,383106821.77963924,Multi-Chain
 Dexes,SushiSwap,['Uniswap V2'],378471069.49451405,Multi-Chain
-CEX,MaskEX,,367157816.48502874,Multi-Chain
 Bridge,Portal,,366266581.71,Multi-Chain
-CEX,Korbit,,357078228.92707205,Multi-Chain
 Derivatives,dYdX,,350192950.31658727,Ethereum
 Dexes,PulseX V1,,345473746.4715154,Pulse
 Dexes,PancakeSwap AMM V3,['Uniswap V3'],303155643.6464566,Multi-Chain
@@ -53,7 +37,6 @@ Lending,Morpho Aave,,296753048.2791175,Ethereum
 Privacy,Tornado Cash,,288994891.2242908,Multi-Chain
 Bridge,Poly Network,,285713259.14,Multi-Chain
 Yield Aggregator,Beefy,,283935276.9758484,Multi-Chain
-CEX,Nexo,,277643166.72202843,Multi-Chain
 Insurance,Nexus Mutual,,267826772.66023862,Ethereum
 Indexes,Bwatch,,264870134.34,Mixin
 Lending,Radiant V2,['Aave'],253285416.86262757,Multi-Chain
@@ -63,7 +46,6 @@ Dexes,Velodrome,['Solidly'],233012690.79453534,Optimism
 Launchpad,UniCrypt,,229252422.10526168,Multi-Chain
 Launchpad,PinkSale,,216849995.3426246,Multi-Chain
 Yield,Coinwind,,209285482.53980055,Multi-Chain
-Chain,Stacks Staking,,208361161.81713977,Stacks
 Liquidity manager,Arrakis V1,,198861488.204423,Multi-Chain
 CDP,Lybra Finance,,187242499.13487378,Ethereum
 Bridge,Synapse,['Saddle Finance'],185739968.80314064,Multi-Chain
@@ -74,12 +56,10 @@ Dexes,BiSwap,['Uniswap V2'],159869111.6837674,Binance
 Lending,Fraxlend,,159234450.69462574,Ethereum
 Lending,Alpaca Lending,,156053861.7769117,Multi-Chain
 NFT Lending,BendDAO Lending,,152677125.04375482,Ethereum
-Chain,xDAI Stake Bridge,,150489439.47746804,Ethereum
 Liquid Staking,Parallel Liquid Crowdloan,,144838635.32678804,Multi-Chain
 Liquid Staking,Ankr,,143446859.7895451,Multi-Chain
 Payments,Lightning Network,,141578288.9790822,Bitcoin
 Bridge,Orbit Bridge,,133216787.59758185,Multi-Chain
-CEX,Phemex,,132218134.56650308,Multi-Chain
 Liquid Staking,Binance staked ETH,,132017849.69320697,Multi-Chain
 Dexes,Osmosis DEX,,131438406.93635401,Osmosis
 Dexes,SUNSwap V2,,129077924.4666455,Tron
@@ -93,7 +73,6 @@ Liquid Staking,StakeHound,,120366116.68401198,Ethereum
 Bridge,cBridge,,117691061.70491205,Multi-Chain
 Yield,Conic Finance,,116936476.37097655,Ethereum
 Dexes,Balancer V1,,114217326.73614499,Ethereum
-CEX,Firi,,111617533.81437622,Multi-Chain
 RWA,Ondo Finance,,109923265.35377245,Ethereum
 Liquid Staking,Marinade Finance,,107054746.4830857,Solana
 Lending,Kava Lend,,104024179.28736506,Kava
@@ -101,7 +80,6 @@ Services,DefiSaver,,100936084.73606008,Ethereum
 Synthetics,DefiChain Loans,,99733761.36802875,DefiChain
 Dexes,Thorchain,,99150895.31963582,Multi-Chain
 Dexes,KlaySwap,,97576934.2171197,Klaytn
-CEX,Cake DeFi,,97147158.82090312,Multi-Chain
 Launchpad,Team Finance,,96839544.59773955,Multi-Chain
 Liquid Staking,Stader,,96041504.64580628,Multi-Chain
 Liquid Staking,OKC Liquid Staking,['Lido'],95496145.96332309,OKExChain
@@ -111,7 +89,6 @@ Dexes,SashimiSwap,['Uniswap V2'],94552509.34867026,Multi-Chain
 Dexes,SUN.io,,94180894.11237961,Tron
 Yield,Pendle,,94020756.05953108,Multi-Chain
 Dexes,Loopring,,93072277.99422875,Ethereum
-CEX,WOO X,,92621249.586595,Multi-Chain
 Liquidity manager,Gamma,,91263280.17967516,Multi-Chain
 Dexes,Katana DEX,['Uniswap V2'],90119891.72711146,Ronin
 Algo-Stables,Mento,,88289646.00638604,Multi-Chain
@@ -147,7 +124,6 @@ Dexes,Quickswap V3,['Algebra DEX'],57745806.7700303,Multi-Chain
 Dexes,Beethoven X,['Balancer'],57653085.82794528,Multi-Chain
 Dexes,4Swap,,57574002.28192815,Mixin
 Yield,Homora V2,,57047601.896093376,Multi-Chain
-CEX,CoinDCX,,56603212.56424549,Multi-Chain
 Dexes,Rhino.fi,,55969885.20366736,Multi-Chain
 CDP,Pando Leaf,,55807574.48611314,Mixin
 Derivatives,Gains Network,,55528917.67846841,Multi-Chain
@@ -164,7 +140,6 @@ CDP,Helio Protocol,['MakerDAO'],48073492.45624114,Binance
 Liquid Staking,CRETH2,,46351808.10917032,Ethereum
 Cross Chain,Across,,45089632.894267276,Ethereum
 Dexes,Canto Dex,,44358479.65611991,Canto
-CEX,Coinsquare,,43785757.760517456,Multi-Chain
 NFT Lending,Blur Lending,,43505974.61081384,Ethereum
 Lending,Flux Finance,['Compound'],42947209.61916844,Ethereum
 Lending,Vires Finance,,42120130.03813946,Waves
@@ -306,7 +281,6 @@ Dexes,Shell Protocol,,16361917.924317861,Arbitrum
 Dexes,KyberSwap Classic,,16317379.698991489,Multi-Chain
 Dexes,SmarDex,['Uniswap V2'],16266489.367621182,Ethereum
 Dexes,Verse,['Uniswap V2'],16103311.1081995,Multi-Chain
-CEX,Hotbit,,15993831.286598416,Multi-Chain
 Dexes,Meshswap,,15970006.866080806,Polygon
 CDP,Vesta Finance,['Liquity'],15825425.39945212,Arbitrum
 Dexes,SaucerSwap,['Uniswap V2'],15817842.5731,Hedera
@@ -341,7 +315,6 @@ Lending,Pando Rings,,13274947.98191562,Mixin
 Derivatives,NestFi,,13271651.589883894,Multi-Chain
 Yield,Belt Finance,,13221676.041056354,Multi-Chain
 Liquid Staking,Meta Pool,,13214960.274195312,Multi-Chain
-CEX,NBX,,13183361.219073534,Multi-Chain
 Lending,AAVE V1,,13084737.144814286,Ethereum
 Liquid Staking,Bifrost Liquid Crowdloan,,13073653.941264365,Bifrost
 Lending,Sturdy,,12817339.699958105,Multi-Chain
@@ -363,7 +336,6 @@ Bridge,ChainPort,,11590227.658037612,Multi-Chain
 Dexes,WEMIX.FI AMM,,11575321.835127212,WEMIX
 Dexes,01,,11565846.830206709,Solana
 Yield,Pirex,,11432894.08652922,Multi-Chain
-Chain,Nuls,,11426269.63,Nuls
 Dexes,Saddle Finance,,11316180.467158765,Multi-Chain
 Dexes,LiquidSwap,,11307724.373586738,Aptos
 Dexes,PulseX V2,,11264373.547777252,Pulse
@@ -385,7 +357,6 @@ Yield,Sphere Finance,,9853342.113639379,Polygon
 Dexes,ThalaSwap,,9602408.733916273,Aptos
 Launchpad,Juicebox V1,,9486163.858407976,Ethereum
 Yield,cVault Finance,,9301889.967225967,Ethereum
-CEX,Latoken,,9291458.882888485,Multi-Chain
 Dexes,ShadeSwap,,9288383.204571126,Secret
 Liquidity manager,ICHI,,9270265.525393814,Multi-Chain
 Dexes,Megaton Finance,,9254224.289198099,TON
@@ -445,7 +416,6 @@ Insurance,Guard-Helmet,,6980169.6585612595,Multi-Chain
 Lending,ApeSwap Lending,['Compound'],6953783.08973997,Binance
 Dexes,Arbitrum Exchange V2,['Uniswap V2'],6953033.757377118,Arbitrum
 CDP,mStable CDP,,6896217.690695697,Multi-Chain
-Chain,Secret Network,,6892353.577516216,Secret
 Dexes,KnightSwap Finance,['Uniswap V2'],6856134.011974924,Multi-Chain
 Algo-Stables,UXD,,6832615.463039137,Solana
 Dexes,Meteora pools,,6778949.278143751,Solana
@@ -686,7 +656,6 @@ Farm,GroveCoin,,2400369.1814608024,Multi-Chain
 Synthetics,CVI Finance,,2397849.548981272,Multi-Chain
 Liquid Staking,sTLOS Liquid Staking,,2396221.416607902,Telos
 Prediction Market,Thales,,2389356.8873840757,Multi-Chain
-Chain,ZKSwap,,2376785.1197346244,Ethereum
 Staking Pool,Filet Finance,,2370339.194298178,Filecoin
 Yield,Extra Finance,,2365370.3079222483,Optimism
 Lending,Goledo,['AAVE'],2347907.0524594584,Conflux
@@ -806,7 +775,6 @@ Yield,Planet Farm,,1457517.1902190784,Binance
 Dexes,Gyroscope Protocol,,1455291.239665086,Polygon
 Farm,Bao Masterchef V1,,1453883.2943439602,Multi-Chain
 Options,Cega,,1445803.0267719585,Multi-Chain
-CEX,BitVenus,,1442002.9778590635,Multi-Chain
 CDP,Arkadiko,,1437432.7397347006,Stacks
 Indexes,PieDAO,,1417743.9345525086,Ethereum
 Algo-Stables,Algomint,,1412995.7387726752,Algorand
@@ -2349,7 +2317,6 @@ Yield,Monoceros,,1.00595,Kava
 Reserve Currency,Avalps,['Olympus DAO'],0.8413254151302,Avalanche
 Launchpad,Kavastarter,,0.830722516,Kava
 Yield,BakedPotatoes,,0.815192945904999,Dogechain
-Chain,Welnance,['Compound'],0.770203588599156,Binance
 Derivatives,Peaky Finance,['GMX'],0.7631788555184641,Binance
 Reserve Currency,Maximizer,['Olympus DAO'],0.6828053191786361,Avalanche
 Algo-Stables,Magnet DAO,['Olympus DAO'],0.6669423635742461,Avalanche
