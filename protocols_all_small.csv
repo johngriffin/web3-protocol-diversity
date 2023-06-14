@@ -1,0 +1,2402 @@
+category,name,forkedFrom,tvl,chain
+CEX,Binance CEX,,59159708160.97337,Multi-Chain
+Liquid Staking,Lido,,13356252260.083487,Multi-Chain
+CEX,OKX,,10156261305.588417,Multi-Chain
+CEX,Bitfinex,,8850820210.793688,Multi-Chain
+CDP,MakerDAO,,6137787869.549984,Ethereum
+Chain,Polygon Bridge & Staking,,6109225100.435584,Polygon
+Bridge,WBTC,,4144158103.3063827,Ethereum
+Dexes,Curve DEX,,4068118993.0276995,Multi-Chain
+Lending,AAVE V2,,3724667078.227557,Multi-Chain
+Lending,JustLend,,3605735188.5737433,Tron
+CEX,Crypto-com,,3262167263.632705,Multi-Chain
+Yield,Convex Finance,,3170395394.480654,Multi-Chain
+Bridge,JustCryptos,,3139758796.0,Tron
+CEX,Bybit,,2998871399.1668015,Multi-Chain
+CEX,Huobi,,2995918157.604725,Multi-Chain
+Dexes,Uniswap V3,,2855833574.428931,Multi-Chain
+CEX,Kucoin,,2550872845.0795693,Multi-Chain
+Liquid Staking,Coinbase Wrapped Staked ETH,,2112753525.7321825,Ethereum
+Services,Instadapp,,2098324504.3577952,Ethereum
+Liquid Staking,Rocket Pool,,1809938846.5413527,Ethereum
+CEX,Deribit,,1775891080.7738717,Multi-Chain
+Lending,AAVE V3,,1586409391.065643,Multi-Chain
+CEX,Bitget,,1575108493.8297613,Multi-Chain
+CEX,Gate-io,,1559840112.1264858,Multi-Chain
+Bridge,Multichain,,1476764278.947086,Multi-Chain
+Dexes,PancakeSwap AMM,['Uniswap V2'],1362101096.4507,Multi-Chain
+CDP,JustStables,,1344194104.097138,Tron
+Lending,Compound,,1277189222.5633569,Ethereum
+Dexes,Uniswap V2,,1170111659.931882,Ethereum
+CEX,MEXC,,1015322719.671451,Multi-Chain
+Dexes,Balancer V2,,903792352.0796114,Multi-Chain
+CEX,Bitmex,,785896720.0777825,Multi-Chain
+CDP,Liquity,,721557650.5114584,Ethereum
+Lending,Venus,['Compound'],706661838.503927,Binance
+Derivatives,GMX,,579224554.077512,Multi-Chain
+CEX,SwissBorg,,545974214.1311564,Multi-Chain
+Lending,Compound V3,,542750735.6101995,Multi-Chain
+Yield,Aura,,522162703.5715391,Ethereum
+Yield Aggregator,Yearn Finance,,460521941.9803801,Multi-Chain
+Liquid Staking,Frax Ether,,436622693.9780308,Ethereum
+Cross Chain,Stargate,,418093022.2720851,Multi-Chain
+Dexes,SUNSwap V1,,386058220.02051795,Tron
+Synthetics,Synthetix,,383106821.77963924,Multi-Chain
+Dexes,SushiSwap,['Uniswap V2'],378471069.49451405,Multi-Chain
+CEX,MaskEX,,367157816.48502874,Multi-Chain
+Bridge,Portal,,366266581.71,Multi-Chain
+CEX,Korbit,,357078228.92707205,Multi-Chain
+Derivatives,dYdX,,350192950.31658727,Ethereum
+Dexes,PulseX V1,,345473746.4715154,Pulse
+Dexes,PancakeSwap AMM V3,['Uniswap V3'],303155643.6464566,Multi-Chain
+Lending,Morpho Aave,,296753048.2791175,Ethereum
+Privacy,Tornado Cash,,288994891.2242908,Multi-Chain
+Bridge,Poly Network,,285713259.14,Multi-Chain
+Yield Aggregator,Beefy,,283935276.9758484,Multi-Chain
+CEX,Nexo,,277643166.72202843,Multi-Chain
+Insurance,Nexus Mutual,,267826772.66023862,Ethereum
+Indexes,Bwatch,,264870134.34,Mixin
+Lending,Radiant V2,['Aave'],253285416.86262757,Multi-Chain
+Bridge,hBTC,,244840359.7384424,Ethereum
+CDP,Abracadabra,,238488618.0141818,Multi-Chain
+Dexes,Velodrome,['Solidly'],233012690.79453534,Optimism
+Launchpad,UniCrypt,,229252422.10526168,Multi-Chain
+Launchpad,PinkSale,,216849995.3426246,Multi-Chain
+Yield,Coinwind,,209285482.53980055,Multi-Chain
+Chain,Stacks Staking,,208361161.81713977,Stacks
+Liquidity manager,Arrakis V1,,198861488.204423,Multi-Chain
+CDP,Lybra Finance,,187242499.13487378,Ethereum
+Bridge,Synapse,['Saddle Finance'],185739968.80314064,Multi-Chain
+Liquid Staking,StakeWise,,174493918.49956912,Multi-Chain
+Dexes,Chainge Finance,,169472883.60184926,Fusion
+Dexes,VVS Finance,['Uniswap V2'],162553783.03868955,Cronos
+Dexes,BiSwap,['Uniswap V2'],159869111.6837674,Binance
+Lending,Fraxlend,,159234450.69462574,Ethereum
+Lending,Alpaca Lending,,156053861.7769117,Multi-Chain
+NFT Lending,BendDAO Lending,,152677125.04375482,Ethereum
+Chain,xDAI Stake Bridge,,150489439.47746804,Ethereum
+Liquid Staking,Parallel Liquid Crowdloan,,144838635.32678804,Multi-Chain
+Liquid Staking,Ankr,,143446859.7895451,Multi-Chain
+Payments,Lightning Network,,141578288.9790822,Bitcoin
+Bridge,Orbit Bridge,,133216787.59758185,Multi-Chain
+CEX,Phemex,,132218134.56650308,Multi-Chain
+Liquid Staking,Binance staked ETH,,132017849.69320697,Multi-Chain
+Dexes,Osmosis DEX,,131438406.93635401,Osmosis
+Dexes,SUNSwap V2,,129077924.4666455,Tron
+Algo-Stables,Frax,,127963055.43161224,Ethereum
+Lending,Benqi Lending,['Compound'],125804322.86873832,Avalanche
+NFT Marketplace,Blur Bids,,124731975.51098691,Ethereum
+Lending,Tectonic,['Compound'],124591986.85791788,Cronos
+Dexes,DefiChain DEX,,121368767.5092999,DefiChain
+Liquid Staking,Acala LCDOT,,120580798.75136766,Acala
+Liquid Staking,StakeHound,,120366116.68401198,Ethereum
+Bridge,cBridge,,117691061.70491205,Multi-Chain
+Yield,Conic Finance,,116936476.37097655,Ethereum
+Dexes,Balancer V1,,114217326.73614499,Ethereum
+CEX,Firi,,111617533.81437622,Multi-Chain
+RWA,Ondo Finance,,109923265.35377245,Ethereum
+Liquid Staking,Marinade Finance,,107054746.4830857,Solana
+Lending,Kava Lend,,104024179.28736506,Kava
+Services,DefiSaver,,100936084.73606008,Ethereum
+Synthetics,DefiChain Loans,,99733761.36802875,DefiChain
+Dexes,Thorchain,,99150895.31963582,Multi-Chain
+Dexes,KlaySwap,,97576934.2171197,Klaytn
+CEX,Cake DeFi,,97147158.82090312,Multi-Chain
+Launchpad,Team Finance,,96839544.59773955,Multi-Chain
+Liquid Staking,Stader,,96041504.64580628,Multi-Chain
+Liquid Staking,OKC Liquid Staking,['Lido'],95496145.96332309,OKExChain
+Leveraged Farming,Alpaca Leveraged Yield Farming,,95276311.1233463,Multi-Chain
+Liquid Staking,Benqi Staked Avax,,94791878.54089598,Avalanche
+Dexes,SashimiSwap,['Uniswap V2'],94552509.34867026,Multi-Chain
+Dexes,SUN.io,,94180894.11237961,Tron
+Yield,Pendle,,94020756.05953108,Multi-Chain
+Dexes,Loopring,,93072277.99422875,Ethereum
+CEX,WOO X,,92621249.586595,Multi-Chain
+Liquidity manager,Gamma,,91263280.17967516,Multi-Chain
+Dexes,Katana DEX,['Uniswap V2'],90119891.72711146,Ronin
+Algo-Stables,Mento,,88289646.00638604,Multi-Chain
+Cross Chain,Hop Protocol,['Saddle Finance'],87146107.33210596,Multi-Chain
+Dexes,Camelot V2,['Uniswap V2'],85320710.87293828,Arbitrum
+NFT Lending,ParaSpace Lending,,85001142.52183126,Multi-Chain
+Bridge,Axelar,,81402735.06563906,Multi-Chain
+RWA,RealT Tokens,,79598006.12,xDai
+Indexes,Set Protocol,,75732400.55908623,Ethereum
+Dexes,Quickswap Dex,['Uniswap V2'],74998248.65656123,Polygon
+Dexes,Chronos,['Solidly'],74990297.44781661,Arbitrum
+Yield,Sushi BentoBox,,74057515.5419236,Multi-Chain
+Indexes,Enzyme Finance,,74032288.66859701,Ethereum
+Lending,UwU Lend,['Aave'],72800506.29984947,Ethereum
+RWA,MatrixDock,,71993701.54819116,Ethereum
+Dexes,Wombat Exchange,,69494265.68211044,Multi-Chain
+Synthetics,Alchemix,,67453272.85841154,Multi-Chain
+Dexes,SyncSwap,,67361565.02622533,zkSync Era
+CDP,Kava Mint,,66099055.34304626,Kava
+Leveraged Farming,Gearbox,,64660393.62243923,Ethereum
+Yield,Concentrator,,62267087.505095914,Ethereum
+Dexes,Frax Swap,['Uniswap V2'],61564879.69710561,Multi-Chain
+Dexes,Joe V2.1,,61454251.197028615,Multi-Chain
+Yield,StakeDAO,,61073828.609048896,Multi-Chain
+Yield Aggregator,Flamincome,,60750510.89481078,Ethereum
+Indexes,Index Coop,,59489057.54059522,Ethereum
+Lending,Algofi Lend,,59248456.95469989,Algorand
+Yield Aggregator,Kava Earn,,58942779.35920191,Kava
+Liquid Staking,Kava Liquid,,58814801.81431047,Kava
+Dexes,Bancor V3,,58775214.97279322,Ethereum
+RWA,Solv Protocol,,58168166.395615906,Multi-Chain
+Dexes,Quickswap V3,['Algebra DEX'],57745806.7700303,Multi-Chain
+Dexes,Beethoven X,['Balancer'],57653085.82794528,Multi-Chain
+Dexes,4Swap,,57574002.28192815,Mixin
+Yield,Homora V2,,57047601.896093376,Multi-Chain
+CEX,CoinDCX,,56603212.56424549,Multi-Chain
+Dexes,Rhino.fi,,55969885.20366736,Multi-Chain
+CDP,Pando Leaf,,55807574.48611314,Mixin
+Derivatives,Gains Network,,55528917.67846841,Multi-Chain
+Dexes,Minswap,,55095403.77620689,Cardano
+Services,CIAN,,54404913.960850805,Multi-Chain
+Launchpad,DxSale,,54018375.53014784,Multi-Chain
+Payments,Flexa,,53141096.38749176,Ethereum
+CDP,QiDao,,53102377.56082973,Multi-Chain
+Dexes,SpookySwap,['Uniswap V2'],52910563.97993379,Fantom
+Lending,EOS REX,,51769020.649365164,EOS
+Yield,Tranchess Yield,,50117939.515823096,Multi-Chain
+Dexes,xExchange,,48260011.80153506,Elrond
+CDP,Helio Protocol,['MakerDAO'],48073492.45624114,Binance
+Liquid Staking,CRETH2,,46351808.10917032,Ethereum
+Cross Chain,Across,,45089632.894267276,Ethereum
+Dexes,Canto Dex,,44358479.65611991,Canto
+CEX,Coinsquare,,43785757.760517456,Multi-Chain
+NFT Lending,Blur Lending,,43505974.61081384,Ethereum
+Lending,Flux Finance,['Compound'],42947209.61916844,Ethereum
+Lending,Vires Finance,,42120130.03813946,Waves
+Lending,MoneyOnChain,,42107294.318085015,RSK
+Lending,dForce,,41886048.32604647,Multi-Chain
+Derivatives,ApolloX,,41378002.00805129,Multi-Chain
+Lending,Silo Finance,,40619732.057138026,Multi-Chain
+Dexes,THENA FUSION,['Algebra DEX'],39936823.81805368,Binance
+Yield,Tetu Earn,,39784728.89498033,Multi-Chain
+Yield Aggregator,Idle,,38888289.06392147,Multi-Chain
+Dexes,Orca,,38722825.246432155,Solana
+Dexes,DODO,,38366822.98563968,Multi-Chain
+Yield Aggregator,Badger DAO,,37729239.56000001,Multi-Chain
+NFT Lending,JPEG'd,,37519616.21690822,Ethereum
+Liquid Staking,Swell,,37298402.08086108,Ethereum
+CDP,Overnight USD+,,37255672.13351019,Multi-Chain
+Derivatives,MUX Protocol,,37135032.80980647,Multi-Chain
+Dexes,Ferro,['Saddle Finance'],36763144.35537408,Cronos
+Dexes,Flamingo Finance,,36727454.53548999,NEO
+Bridge,Terra Bridge,,36621072.986686476,Multi-Chain
+Bridge,Ad-Astra Bridge,,35883200.83664237,Ethereum
+RWA,Tangible,,35731040.13915041,Polygon
+Cross Chain,pNetwork,,34919182.930151515,Multi-Chain
+Dexes,MDEX,['Uniswap V2'],34821963.975997634,Multi-Chain
+Lending,Solend,,34786573.6911927,Solana
+Liquid Staking,Stride,,34265871.34628733,Stride
+Lending,Moonwell Artemis,['Compound'],34231571.878206916,Moonbeam
+Dexes,KyberSwap Elastic,,34148048.493853375,Multi-Chain
+CDP,Indigo,,34012089.8610415,Cardano
+Cross Chain,Connext,,33729308.77065717,Multi-Chain
+Lending,B.Protocol,,33693277.06790972,Multi-Chain
+Bridge,ioTube,,33659182.012078956,Multi-Chain
+Indexes,unshETH,,33392478.05641328,Ethereum
+Algo-Stables,Frax FPI,,33266276.51568467,Ethereum
+Dexes,Trader Joe DEX,['Uniswap V2'],33232050.147145,Multi-Chain
+Insurance,Unslashed,,32976307.71458048,Ethereum
+Lending,Notional,,32645671.90959905,Ethereum
+Dexes,BabyDogeSwap,['Uniswap V2'],32545796.86571584,Binance
+Yield,Wombex Finance,['Aura'],32483370.19709694,Multi-Chain
+Liquid Staking,ether.fi,,32381535.55676621,Ethereum
+Services,SPL Governance,,32285787.759060614,Solana
+Indexes,dHEDGE,,32115281.997355063,Multi-Chain
+Dexes,Maverick Protocol,,31917729.716007933,Multi-Chain
+Yield,GND Protocol,,31541598.451770317,Arbitrum
+Yield,Tokemak,,31496982.091933932,Ethereum
+NFT Lending,NFTfi,,31299986.42556345,Ethereum
+Staking Pool,WEMIX.FI Staking,,31031742.48022883,WEMIX
+CDP,Reflexer,,30692921.06784645,Ethereum
+Lending,Alpaca Finance 2.0,,30362234.292520847,Binance
+Dexes,Astroport,,30030502.619312655,Multi-Chain
+Lending,Sonne Finance,['Compound'],29824770.980299737,Optimism
+Liquid Staking,Stafi,,29502230.296255495,Multi-Chain
+Options Vault,Jones DAO,,29497120.440288752,Multi-Chain
+Liquid Staking,SharedStake,,29456792.81584595,Ethereum
+Yield Aggregator,Yield Yak Aggregator,,29449615.62499893,Avalanche
+Dexes,Platypus Finance,,29394000.19313956,Avalanche
+Derivatives,Level Finance,,29383704.126275335,Binance
+Dexes,iZiSwap,,29222462.801296875,Multi-Chain
+Options,Lyra,,29076632.20196784,Multi-Chain
+Yield,Vector Finance,,28813972.242996916,Avalanche
+Liquid Staking,Algo Liquid Governance,,28641820.80899949,Algorand
+Lending,REX Staking,,28137258.83365977,Telos
+Yield,ParaSpace APE Staking,,27852169.71122749,Ethereum
+Synthetics,Youves,,27694388.51765702,Tezos
+Dexes,MojitoSwap,['Uniswap V2'],27558888.99609682,Kucoin
+Yield Aggregator,Origin Dollar,,27388547.88644359,Ethereum
+Dexes,DefiBox,,27246991.98350726,Multi-Chain
+Options Vault,Ribbon,,27239501.315589875,Multi-Chain
+Liquid Staking,KLAYstation,,27213485.21,Klaytn
+Dexes,THENA V1,['Solidly'],26938424.319566023,Binance
+Lending,Geist Finance,['Aave'],26926507.261049822,Fantom
+Lending,Canto Lending,['Compound'],26909695.505278505,Canto
+CDP,Raft,,26700585.714278203,Ethereum
+Yield Aggregator,ACryptoS,,26614792.828264046,Multi-Chain
+Derivatives,Keep3r Network,,26559842.67973628,Ethereum
+RWA,Lofty,,26355824.7593709,Algorand
+Dexes,Raydium,,26109056.652897444,Solana
+Derivatives,ApeX Protocol,,25946816.602122,Multi-Chain
+Dexes,Pangolin,['Uniswap V2'],25561609.20822322,Multi-Chain
+Dexes,ALEX,,25498670.012419872,Stacks
+Lending,Parallel Lending,,24968569.90610797,Multi-Chain
+Dexes,OKCSwap,['Uniswap V2'],24929183.053951144,OKExChain
+CDP,Acala Dollar,,24600421.228876088,Acala
+Dexes,ApeSwap AMM,['Uniswap V2'],24381290.968500346,Multi-Chain
+Dexes,ShibaSwap,['Uniswap V2'],24268331.111697853,Ethereum
+Bridge,RelayChain,,24162345.48671739,Multi-Chain
+Lending,Wing Finance,,24069782.564595,Multi-Chain
+Liquid Staking,Bifrost Liquid Staking,,23508239.626087338,Multi-Chain
+Yield Aggregator,Origin Ether,,23218549.013386846,Ethereum
+Options,Dopex,,23109264.189415414,Multi-Chain
+Lending,Liqee,['Compound'],22685759.82413686,Multi-Chain
+Dexes,Ellipsis Finance,['Curve'],22362953.970045827,Binance
+Indexes,Toros,,22284747.840660397,Multi-Chain
+Dexes,Ramses Exchange,['Solidly'],22230344.99190659,Arbitrum
+Lending,Iron Bank,['Compound'],22183002.242819835,Multi-Chain
+Yield,BendDAO APE Staking,,22113715.892091427,Ethereum
+Bridge,RenVM,,22105562.041318253,Multi-Chain
+Yield,Llama Airforce,,22020191.001594555,Ethereum
+CDP,crvUSD,,21164980.784997057,Ethereum
+Dexes,Swappi,['Uniswap V2'],21135473.03912291,Conflux
+Dexes,PancakeSwap StableSwap,,21116737.616053294,Binance
+Options,Opyn Gamma,,20939462.333466694,Multi-Chain
+CDP,Reserve,,20924993.55978931,Ethereum
+Derivatives,IPOR,,20751434.7461325,Ethereum
+Dexes,Bancor V2.1,,20625653.73369372,Ethereum
+Derivatives,Perpetual Protocol,,20582873.488096956,Multi-Chain
+CDP,Sovryn Zero,,20464197.029388838,RSK
+Lending,Kleva Lend,['Alpaca Finance'],20403679.47570357,Klaytn
+CDP,Gravita Protocol,['Liquity'],20233047.829031553,Ethereum
+CDP,Mimo Protocol,,19633738.282161508,Multi-Chain
+Dexes,Tezos Liquidity Baking,,19630507.59705656,Tezos
+Yield Aggregator,Vesper,,19491660.121978983,Multi-Chain
+NFT Marketplace,NFTX,,19423709.956362445,Multi-Chain
+Dexes,Mute.io,,19051474.130513247,zkSync Era
+Bridge,tBTC,,18831290.42869842,Ethereum
+Lending,Exactly,,18770595.16262123,Multi-Chain
+Liquidity manager,Bunni,,18765020.34971361,Multi-Chain
+Yield,Asymetrix Protocol,,18678314.34258678,Ethereum
+Yield,Magpie,,18398501.765258513,Multi-Chain
+Services,The Tokenized Bitcoin,,18342241.156663198,Ethereum
+Dexes,Sovryn Dex,,18309300.194483854,RSK
+Lending,Agave,['Aave'],18133706.70513313,xDai
+CDP,Angle,,18017887.55611835,Multi-Chain
+Yield,Solo Top,,17944645.597106874,Multi-Chain
+CDP,DeFi Franc,['Liquity'],17916915.097387068,Ethereum
+Dexes,Serum,,17903791.542613816,Solana
+Lending,Granary Finance,['Aave'],17568667.1473301,Multi-Chain
+Liquid Staking,NeoBurger,,17543783.542383417,NEO
+RWA,Aktionariat,,17356134.62963423,Multi-Chain
+Lending,Torches,['Compound'],17317240.216146033,Kucoin
+Lending,BiFi,,17165893.16057166,Multi-Chain
+Liquid Staking,ExinPool,,17008057.33,Mixin
+Yield Aggregator,LUSD ChickenBonds,,16791936.617875073,Ethereum
+Liquidity manager,DefiEdge,,16733194.880328363,Multi-Chain
+Dexes,Dfyn Network,['Uniswap V2'],16537535.714449205,Multi-Chain
+RWA,Toucan Protocol,,16508881.616028002,Multi-Chain
+Dexes,Helix,,16486286.28656071,Injective
+Dexes,Shell Protocol,,16361917.924317861,Arbitrum
+Dexes,KyberSwap Classic,,16317379.698991489,Multi-Chain
+Dexes,SmarDex,['Uniswap V2'],16266489.367621182,Ethereum
+Dexes,Verse,['Uniswap V2'],16103311.1081995,Multi-Chain
+CEX,Hotbit,,15993831.286598416,Multi-Chain
+Dexes,Meshswap,,15970006.866080806,Polygon
+CDP,Vesta Finance,['Liquity'],15825425.39945212,Arbitrum
+Dexes,SaucerSwap,['Uniswap V2'],15817842.5731,Hedera
+Dexes,StellarX,,15685282.273436598,Stellar
+Derivatives,Pika Protocol,,15391891.571792,Optimism
+Liquid Staking,Stake.ly,,15371614.833177337,Klaytn
+Dexes,Atrix,,15254011.7970375,Solana
+CDP,Inverse Finance FiRM,,14863776.096930997,Ethereum
+Dexes,Ref Finance,,14789324.821726313,Near
+Yield,Quarry,,14786708.675615177,Solana
+Bridge,Octus Bridge,,14631154.334286185,Multi-Chain
+Lending,Strike,['Compound'],14606821.01106004,Ethereum
+Lending,Folks Finance Lending,,14532376.458372394,Algorand
+Lending,Tarot,['Impermax Finance'],14527933.050184842,Multi-Chain
+Yield Aggregator,Sommelier,,14527106.551445344,Ethereum
+Leveraged Farming,DeltaPrime,,14505219.02032417,Avalanche
+Lending,Lodestar Finance,['Compound'],14423676.755103193,Arbitrum
+Yield,Francium,,14155744.783087462,Solana
+Dexes,Velocore,['Solidly'],14007452.573150251,zkSync Era
+Services,PoolTogether,,13999220.62320369,Multi-Chain
+Yield,PlutusDAO,,13849616.577341141,Arbitrum
+Lending,Liqwid,,13825137.169440724,Cardano
+Liquid Staking,sICX,,13730184.372092178,Icon
+Bridge,Injective Bridge,,13700763.007657304,Ethereum
+Lending,Mare Finance,['Compound'],13695117.879471635,Kava
+Liquid Staking,LiNEAR Protocol,,13624056.273254128,Near
+Yield Aggregator,Spool Protocol,,13621009.499590263,Multi-Chain
+Yield Aggregator,Autofarm,['Yearn Finance'],13614633.157618301,Multi-Chain
+Cross Chain,Wrapped,,13492303.559688779,Multi-Chain
+Yield,Bella Protocol,,13300200.62296738,Ethereum
+Lending,Pando Rings,,13274947.98191562,Mixin
+Derivatives,NestFi,,13271651.589883894,Multi-Chain
+Yield,Belt Finance,,13221676.041056354,Multi-Chain
+Liquid Staking,Meta Pool,,13214960.274195312,Multi-Chain
+CEX,NBX,,13183361.219073534,Multi-Chain
+Lending,AAVE V1,,13084737.144814286,Ethereum
+Liquid Staking,Bifrost Liquid Crowdloan,,13073653.941264365,Bifrost
+Lending,Sturdy,,12817339.699958105,Multi-Chain
+CDP,Yeti Finance,['Liquity'],12774001.652068302,Avalanche
+Yield,Tulip Protocol,,12704832.127995318,Solana
+Lending,Spark,['Aave'],12615818.835585516,Ethereum
+Yield,CLever,,12607427.465226658,Ethereum
+CDP,Djed Stablecoin,,12504372.851080075,Cardano
+Yield Aggregator,Rari Capital,['Compound'],12425078.45280279,Multi-Chain
+Yield Aggregator,GMD Protocol,,12348605.125806605,Arbitrum
+CDP,Overnight DAI+,,12329530.833564732,Multi-Chain
+Yield,WOOFi Earn,,12308804.333217498,Multi-Chain
+Dexes,Cetus,,12264868.455249995,Multi-Chain
+Dexes,WingRiders,,12250624.780089378,Cardano
+Liquid Staking,Jito,['SPL Stake Pool'],12126728.788403617,Solana
+Liquid Staking,GETH,,12103886.085170701,Ethereum
+Derivatives,Opyn Squeeth,,12065522.151666988,Ethereum
+Bridge,ChainPort,,11590227.658037612,Multi-Chain
+Dexes,WEMIX.FI AMM,,11575321.835127212,WEMIX
+Dexes,01,,11565846.830206709,Solana
+Yield,Pirex,,11432894.08652922,Multi-Chain
+Chain,Nuls,,11426269.63,Nuls
+Dexes,Saddle Finance,,11316180.467158765,Multi-Chain
+Dexes,LiquidSwap,,11307724.373586738,Aptos
+Dexes,PulseX V2,,11264373.547777252,Pulse
+Yield,Rage Trade,,11264347.856667157,Arbitrum
+Liquid Staking,NodeDAO,,11219838.955105599,Multi-Chain
+RWA,OpenEden T-Bills,,11003339.35837,Ethereum
+Dexes,Clipper,,10856674.66545341,Multi-Chain
+Lending,Burrow,,10801093.628947891,Near
+Dexes,Equalizer Exchange,['Solidly'],10767316.713057335,Fantom
+CDP,tai.money,['Reflexer'],10755256.153839223,Ethereum
+Liquid Staking,Acala Liquid-Staking,,10591285.887497952,Acala
+Yield Aggregator,Reaper Farm,,10508090.47960072,Multi-Chain
+Lending,FilDA,['Compound'],10425352.013230806,Multi-Chain
+Yield Aggregator,Harvest Finance,,10201291.282110035,Multi-Chain
+Dexes,ArthSwap,['Uniswap V2'],10186987.844459513,Astar
+Lending,Green Planet,,10168026.202986883,Binance
+Privacy,Aztec,,9898800.203061527,Ethereum
+Yield,Sphere Finance,,9853342.113639379,Polygon
+Dexes,ThalaSwap,,9602408.733916273,Aptos
+Launchpad,Juicebox V1,,9486163.858407976,Ethereum
+Yield,cVault Finance,,9301889.967225967,Ethereum
+CEX,Latoken,,9291458.882888485,Multi-Chain
+Dexes,ShadeSwap,,9288383.204571126,Secret
+Liquidity manager,ICHI,,9270265.525393814,Multi-Chain
+Dexes,Megaton Finance,,9254224.289198099,TON
+Dexes,Hummus Exchange,['Platypus Finance'],9237409.53553518,Metis
+Lending,Umee,,9228436.685138669,Multi-Chain
+Dexes,Sushi Trident,,9166422.517763045,Multi-Chain
+Dexes,Hermes Protocol,['Solidly'],9162645.395271754,Metis
+Dexes,Ouchi Finance,,9132091.923036488,Ethereum
+Dexes,Pact,,8949609.73082296,Algorand
+Options Vault,Thetanuts Finance,,8870671.72142634,Multi-Chain
+CDP,Parrot Protocol,,8855592.620720182,Solana
+Synthetics,Outcome Finance,,8819260.144711772,Multi-Chain
+Bridge,Meter Passport,,8792810.011049382,Multi-Chain
+Yield,MoonFarm,,8763549.0,Multi-Chain
+Privacy,Railgun,,8749475.00452716,Multi-Chain
+Dexes,VanSwap,['Uniswap V2'],8411209.854284957,Vision
+Yield,Dot Dot Finance,,8399201.362871425,Binance
+Derivatives,Drift,,8280907.98509367,Solana
+Derivatives,Linear Finance,,8188154.524827488,Binance
+Options,Hegic,,8187354.20635548,Multi-Chain
+Lending,Morpho AaveV3,,8138336.606351268,Ethereum
+Dexes,Uniswap V1,,8119270.98784522,Ethereum
+Liquid Staking,JPool,,8113748.6465233285,Solana
+Staking Pool,ABC Pool,,8076570.576,Conflux
+Liquid Staking,Algem,,8043736.695654295,Astar
+Dexes,MuesliSwap,,8042055.306420833,Multi-Chain
+Dexes,Saber,,8034368.462746761,Solana
+Lending,RealT RMM Marketplace,['AAVE'],8027130.878467871,xDai
+Dexes,BakerySwap,['Uniswap V2'],7961033.085479048,Binance
+Bridge,Wan Bridge,,7950596.372299535,Multi-Chain
+Dexes,Joe V2,,7923591.919615557,Multi-Chain
+Launchpad,DeepLock,,7793569.88608362,Binance
+Dexes,Mimo,['Uniswap V2'],7712474.062136739,IoTeX
+Dexes,WOOFi Swap,,7695555.691364277,Multi-Chain
+Lending,Trader Joe Lend,['Compound'],7653738.86139019,Avalanche
+Options,Premia,,7617082.205523292,Multi-Chain
+Lending,Morpho Compound,,7564785.396795759,Ethereum
+Derivatives,Mummy Finance,['GMX'],7559917.08588407,Multi-Chain
+Liquid Staking,pSTAKE Finance,,7548758.135481162,Multi-Chain
+Yield,Proxy,,7524399.617689339,Multi-Chain
+NFT Lending,Arcade xyz,,7520538.014657251,Ethereum
+Lending,Valas Finance,['Aave'],7467352.806519115,Binance
+Liquidity manager,Kamino,,7461623.4210285945,Solana
+Synthetics,Metronome Synth,['Chainlink'],7430202.159789113,Ethereum
+Liquid Staking,Parallel Liquid Staking,,7386556.522884851,Multi-Chain
+Dexes,SpaceFi,['Uniswap V2'],7312583.467844294,Multi-Chain
+Liquidity manager,Arrakis V2,,7139682.375828125,Multi-Chain
+Liquid Staking,Nucleon,,7139533.521224926,Conflux
+Dexes,JediSwap,,7131722.01189252,Starknet
+Yield Aggregator,Pickle,,7111037.552757688,Multi-Chain
+CDP,Thala CDP,,7103423.582781669,Aptos
+Yield Aggregator,Bolide,,7083555.8528801855,Multi-Chain
+Dexes,Arbitrum Exchange V3,['Uniswap V3'],7076799.104296629,Arbitrum
+Insurance,Ease.org,,7038076.002603619,Ethereum
+Dexes,Tinyman,,7009677.666423782,Algorand
+Insurance,Guard-Helmet,,6980169.6585612595,Multi-Chain
+Lending,ApeSwap Lending,['Compound'],6953783.08973997,Binance
+Dexes,Arbitrum Exchange V2,['Uniswap V2'],6953033.757377118,Arbitrum
+CDP,mStable CDP,,6896217.690695697,Multi-Chain
+Chain,Secret Network,,6892353.577516216,Secret
+Dexes,KnightSwap Finance,['Uniswap V2'],6856134.011974924,Multi-Chain
+Algo-Stables,UXD,,6832615.463039137,Solana
+Dexes,Meteora pools,,6778949.278143751,Solana
+Yield,Redacted Protocol,,6750330.379290723,Ethereum
+Derivatives,QuickPerps,['GMX'],6728252.125257169,Polygon zkEVM
+Dexes,Balanced,,6655885.017055382,Icon
+Dexes,MM Finance Cronos,['Uniswap V2'],6550337.920697009,Cronos
+Dexes,Kokonut Swap,['Curve'],6548964.409670735,Multi-Chain
+Services,Aurora Plus,,6502038.879037763,Aurora
+Dexes,Orderly Network,,6487340.4925107,Near
+Dexes,SundaeSwap,,6476663.117049759,Cardano
+Insurance,InsurAce,,6467383.951018893,Multi-Chain
+Leveraged Farming,Kleva Farm,['Alpaca Finance'],6399805.969197212,Klaytn
+Options,Bumper Finance,,6373815.741491,Ethereum
+Dexes,Orion Protocol,['Uniswap V2'],6359455.203991998,Multi-Chain
+Dexes,StellaSwap,['Algebra DEX'],6338336.366724468,Moonbeam
+Yield,FLRFarm,,6328943.538354479,Songbird
+Lending,ShadeLend,,6269058.738046557,Secret
+Derivatives,SynFutures V2,,6160037.884349671,Polygon
+Lending,WePiggy,['Compound'],6156970.768265124,Multi-Chain
+Yield,Echidna Finance,,6155286.140959817,Avalanche
+Bridge,NerveBridge,,6149077.025858907,Multi-Chain
+CDP,Inverse Finance Frontier,['Compound'],6133011.486202596,Ethereum
+CDP,DSU Money,,6093458.538640044,Multi-Chain
+Liquid Staking,NEOPIN Staking,,6089380.927151139,Multi-Chain
+Dexes,VyFinance Dex,,6066195.934690765,Cardano
+Yield,TokensFarm,,6056670.316262514,Multi-Chain
+Liquidity manager,xToken,,5999928.918559238,Multi-Chain
+Derivatives,Perennial,,5980212.745590033,Multi-Chain
+Payments,Sablier Finance,,5973679.20410836,Multi-Chain
+CDP,Ethos Reserve,['Liquity'],5966495.617225461,Optimism
+Yield Aggregator,Meteora vaults,,5947353.418566629,Solana
+Dexes,Honeyswap,['Uniswap V2'],5920631.055554751,Multi-Chain
+Lending,Tender Finance,['Compound'],5860771.553889864,Arbitrum
+Yield Aggregator,Mellow Protocol,,5826846.033300148,Multi-Chain
+Dexes,Pangea Swap,['Uniswap V2'],5765325.814920299,Klaytn
+Dexes,DOOAR,['Uniswap V2'],5756881.117373211,Multi-Chain
+Lending,Bastion,['Compound'],5734300.772422043,Aurora
+Lending,Onyx Protocol,['Compound'],5723702.71313615,Ethereum
+Dexes,Turbos,,5714137.50083039,Sui
+Dexes,LumenSwap,,5690085.473355,Stellar
+Liquid Staking,Veno Finance,,5687990.980385941,Cronos
+Yield,Back Finance,,5605395.870216676,Heco
+Dexes,CreamSwap,['Balancer'],5545423.102448032,Ethereum
+Dexes,1inch Network,,5525288.483064409,Multi-Chain
+Liquid Staking,GLIF Pools Infinity Pool,,5496940.327408637,Filecoin
+Dexes,SpiritSwap AMM,['Uniswap V2'],5481536.346331949,Fantom
+Lending,Omm,,5436369.76,Icon
+Lending,Aada,,5400459.978045686,Cardano
+Dexes,OraiDEX,,5377781.939672507,Orai
+Yield,Liquid Driver,,5350688.715122312,Multi-Chain
+Dexes,Crystalvale,['Uniswap V2'],5341624.962474603,DFK
+Dexes,UltronSwap,['Uniswap V2'],5319598.579784216,Ultron
+Derivatives,Alpaca Perpetual Futures Exchange,['GMX'],5268066.488897068,Binance
+Dexes,Kaidex,['Uniswap V2'],5231530.682847339,Kardia
+Options Vault,Dual Finance,,5231395.6300848555,Solana
+Bridge,Wrapped BNB,['BinanceChain BEPs'],5194554.648609079,Binance
+Dexes,Crescent Dex,,5187290.087827285,Crescent
+Staking Pool,UniFi Staking,,5186512.1637501,Multi-Chain
+Liquid Staking,Karura Liquid-Staking,,5160583.625972394,Karura
+Reserve Currency,The Idols,,5137344.58680797,Ethereum
+Liquid Staking,Tortuga,,5086096.609482817,Aptos
+Dexes,Native,,5082080.100148516,Multi-Chain
+Dexes,Nomiswap,['Uniswap V2'],5060565.168407598,Binance
+Lending,EraLend,['Compound'],5055640.295312675,zkSync Era
+Dexes,Velocimeter V2,['Solidly'],5049395.526012549,Multi-Chain
+CDP,TProtocol,,5000752.283822879,Ethereum
+Yield,Kine Finance,,4958089.502483907,Multi-Chain
+Dexes,Zyberswap V3,['Uniswap V2'],4945773.602944112,Arbitrum
+Dexes,ViteX,,4942806.3975435095,Vite
+Liquid Staking,stake.link liquid,,4891687.763785088,Ethereum
+Lending,Port Finance,,4839771.806714895,Solana
+Uncollateralized Lending,Maple,,4818137.092266213,Multi-Chain
+Services,TokenPocket,,4788680.0,Ethereum
+Yield,Impermax Finance,,4786259.999936395,Multi-Chain
+Uncollateralized Lending,Clearpool,,4759077.685307129,Multi-Chain
+Dexes,veSync,['Solidly'],4730906.412938727,zkSync Era
+Dexes,PayCash,,4704678.1976,EOS
+Cross Chain,O3 Swap,,4699365.46,Multi-Chain
+Yield,Flashstake,,4697672.331401526,Multi-Chain
+Dexes,OpenBook,,4689981.681941865,Solana
+Lending,ReactorFusion,['Compound'],4661001.692768208,zkSync Era
+Dexes,SolidLizard,['Solidly'],4653857.741423712,Arbitrum
+Lending,Karura Dollar (kUSD),,4652639.395996736,Karura
+Lending,Larix,,4643718.74010283,Solana
+Dexes,Rook,,4551262.999057897,Ethereum
+Prediction Market,Polymarket,,4500935.928118,Polygon
+Lending,Cat in a Box,,4479425.716986773,Ethereum
+Dexes,Increment Swap,,4464312.578669306,Flow
+Dexes,Equilibre,['Solidly'],4450601.334283617,Kava
+Cross Chain,Interport Finance,,4400972.830551016,Multi-Chain
+Derivatives,Hakka Finance,,4395850.959149968,Multi-Chain
+Leveraged Farming,Archimedes Finance,,4395842.401536539,Ethereum
+Dexes,NetSwap,['Uniswap V2'],4389309.806863229,Metis
+Dexes,Solarbeam,['Uniswap V2'],4360617.104804679,Moonriver
+Yield,Bunny,,4356367.092419802,Multi-Chain
+Lending,Mars Protocol,,4318330.868018206,Multi-Chain
+Dexes,FlatQube,,4282485.390034907,Everscale
+Dexes,Lifinity,,4231630.996694624,Solana
+Prediction Market,Gnosis Protocol v1,,4201417.6912138155,Ethereum
+Bridge,Allbridge,,4200181.907907906,Multi-Chain
+Dexes,OpenLeverage,,4189875.4095416307,Multi-Chain
+Farm,VyFinance Vaults,,4183216.39139325,Cardano
+Dexes,WigoSwap,['Uniswap V2'],4100596.61808009,Fantom
+Cross Chain,CrossChain Bridge,,4096286.7649042127,Multi-Chain
+Dexes,Arbswap AMM,['Uniswap V2'],4066744.8998892526,Multi-Chain
+Indexes,Neutrino,,4049608.114674501,Waves
+Yield,Single Finance,,4009509.149279604,Multi-Chain
+Liquid Staking,uniETH,,4007528.253548184,Ethereum
+Lending,KlayBank,['Aave'],4002922.9961886853,Klaytn
+Derivatives,Vertex Protocol,,3994250.7613147916,Arbitrum
+Yield,Ceres Demeter,,3965857.1649739314,Sora
+CDP,AstridDAO,,3963463.889909586,Astar
+Yield,BabelFish,,3947714.2471757466,RSK
+Lending,Ghost,,3898062.0426470293,Kujira
+Yield,Ethernity Chain,,3859476.3148741405,Ethereum
+Prediction Market,Azuro,,3849565.612124632,Multi-Chain
+Dexes,ZilSwap,,3826675.9015880413,Zilliqa
+Indexes,Fractional Art,,3812015.397795743,Ethereum
+NFT Marketplace,SudoSwap,,3803097.5674613705,Ethereum
+Lending,Moola Market,['Aave'],3762163.184251215,Celo
+Launchpad,FlokiFi Locker,,3757503.0141301733,Multi-Chain
+Dexes,BabySwap,['Uniswap V2'],3756152.1012206655,Binance
+Liquid Staking,STFIL,,3749104.6108382223,Filecoin
+Yield Aggregator,Zunami Protocol,,3706209.675106333,Ethereum
+Launchpad,Juicebox V3,,3688515.7224382134,Ethereum
+Derivatives,Hyperliquid,,3684199.570227,Arbitrum
+CDP,Kolibri,,3683287.2949002,Tezos
+Liquidity manager,SteakHut Liquidity,,3641023.4139718353,Multi-Chain
+Lending,Midas Capital,['Rari Capital'],3638286.803740706,Multi-Chain
+Dexes,SoliSnek Finance,['Solidly'],3624029.369550843,Avalanche
+Lending,Klap,['Aave'],3618130.9391851095,Klaytn
+Cross Chain,Symbiosis Finance,,3597906.4558378323,Multi-Chain
+Dexes,Yoshi Exchange,['Uniswap V2'],3594733.5808041655,Multi-Chain
+Staking Pool,ThunderCore Staking,,3575144.8765196633,ThunderCore
+Derivatives,Fulcrom,['GMX'],3559967.5038070804,Cronos
+Yield,KordFi,,3548262.61,Tezos
+Lending,Dolomite,,3545988.3578322297,Arbitrum
+Services,Revert Compoundor,,3497970.3979542367,Multi-Chain
+Bridge,Hyphen,,3487206.5504795783,Multi-Chain
+Dexes,Tomb Swap,,3485267.682327745,Fantom
+Leveraged Farming,Sentiment,,3480872.632951998,Arbitrum
+Yield,GrizzlyFi,,3466162.4782579658,Binance
+Lending,Hector Lending,['Compound'],3430454.262220966,Fantom
+CDP,Kokoa Finance,,3425771.8898418,Klaytn
+Dexes,YokaiSwap,['Uniswap V2'],3393320.440136711,Multi-Chain
+Dexes,Kava Swap,,3392607.05767847,Kava
+CDP,Hubble,,3388258.366066397,Solana
+Services,Metronome V1,,3386276.3841314567,Ethereum
+Cross Chain,Interlay Collateral,,3378365.0,Interlay
+Lending,Optim Finance,,3364267.2655309313,Cardano
+Derivatives,Horizon Protocol,['Synthetix'],3347720.30571855,Binance
+Yield Aggregator,MugenFinance,,3339168.1604734855,Arbitrum
+Dexes,Acala Swap,,3334341.2428506142,Acala
+Liquid Staking,SFT Protocol,,3309363.1098121624,Filecoin
+Derivatives,UniDex,,3298645.6637714407,Multi-Chain
+Prediction Market,WINR Protocol,,3295182.9712296873,Arbitrum
+CDP,Overnight USDT+,,3291765.9610499376,Binance
+Lending,marginfi,,3291480.6616995535,Solana
+Dexes,DeFis Network,,3261235.0386145716,EOS
+Derivatives,Jarvis Network,,3241821.4471097547,Multi-Chain
+Yield Aggregator,Avault,,3212571.200457781,Astar
+Dexes,SharkSwap,['Uniswap V2'],3196239.3733558105,SXnetwork
+Yield,Arbi's Finance,,3189457.337444056,Arbitrum
+Dexes,MantisSwap,,3183101.613932172,Multi-Chain
+Lending,SiO2 Finance,['AAVE'],3180345.312773932,Astar
+Lending,Proton Loan,,3179223.39702626,Proton
+Derivatives,Erasure,,3126659.2487435695,Ethereum
+CDP,Mars Ecosystem,,3082551.520042953,Binance
+Insurance,Sherlock,,3081361.987637,Ethereum
+Dexes,Glacier Finance,['Solidly'],3081075.3942224574,Avalanche
+Dexes,WhaleEx,,3015251.859120258,EOS
+Liquid Staking,Eris Protocol,,3006372.502207009,Multi-Chain
+Yield Aggregator,Waterfall DeFi,,3000883.900369689,Multi-Chain
+Cross Chain,BoringDAO,,2998503.948422561,Multi-Chain
+Dexes,Bifrost Dex,,2997082.5941589684,Bifrost
+Dexes,Trisolaris,['Uniswap V2'],2975358.2895721383,Aurora
+Derivatives,Metavault.Trade,['GMX'],2974133.1517568207,Polygon
+Liquid Staking,Tranchess Ether,,2971456.2039235104,Ethereum
+Options,Ribbon Earn,,2970302.36485532,Ethereum
+Dexes,FLRX,['Uniswap V2'],2956763.3546137237,Songbird
+Yield,Gro,,2948635.236487165,Multi-Chain
+Lending,Moonwell Apollo,['Compound'],2941617.0456363107,Moonriver
+Dexes,3xcalibur,['Solidly'],2924766.7526458995,Arbitrum
+Yield,Bow,,2911456.5823166776,Kujira
+Options,Aevo,,2884259.045775,Ethereum
+Dexes,BurgerSwap,['Uniswap V2'],2881517.6466358844,Binance
+Payments,LlamaPay,,2864830.530452992,Multi-Chain
+Dexes,DFX Finance,['Shell Protocol'],2860552.1059135566,Multi-Chain
+Dexes,WanSwap Dex,,2852018.1599783245,Wanchain
+Dexes,Depth,,2834027.6623245636,Multi-Chain
+Lending,Yield Protocol,,2825980.971438647,Multi-Chain
+Farm,Proteo Defi,,2824171.0950232595,Elrond
+Lending,Channels Finance,['Compound'],2784473.5873757354,Multi-Chain
+Dexes,ArcherSwap,['Uniswap V2'],2762577.5746621247,CORE
+Dexes,WX Network,,2750419.680585,Waves
+Dexes,Ashswap,,2749349.21845565,Elrond
+Liquid Staking,stCELO,,2707653.6187317036,Celo
+Dexes,IDEX,,2705586.8042711793,Multi-Chain
+NFT Lending,FRAKT,,2695327.673142544,Solana
+Lending,Aurigami,['Compound'],2690828.0424280223,Aurora
+Dexes,Defi Kingdoms,['Uniswap V2'],2684488.6404141886,Multi-Chain
+Yield,Brahma,,2665060.5119489105,Multi-Chain
+Options,Whiteheart,,2660746.06044459,Ethereum
+Staking Pool,Klayportal,,2658689.949398873,Klaytn
+Liquid Staking,ClayStack,,2648282.3873044704,Ethereum
+Dexes,XSwap Protocol,['Uniswap V2'],2643845.7034945204,XDC
+Leveraged Farming,Archi Finance,,2615664.772678328,Arbitrum
+Dexes,MarginSwap,,2600925.7005064627,Multi-Chain
+Indexes,Alongside,,2600902.6818032726,Ethereum
+Insurance,Tidal Finance,,2575762.513851,Polygon
+CDP,Yama Finance,,2575407.821552983,Arbitrum
+Derivatives,Hubble Exchange,,2573042.347250732,Avalanche
+Dexes,StellaSwap V3,['Algebra DEX'],2567745.4283893574,Moonbeam
+Yield Aggregator,MM Optimizer,['Bunny'],2566500.4793518055,Cronos
+Dexes,SushiSwap V3,['Uniswap V3'],2553597.217947875,Multi-Chain
+Yield Aggregator,BarnBridge,,2535995.8135461435,Multi-Chain
+Options,Deri Protocol,,2522963.8740725517,Multi-Chain
+Dexes,VoltSwap V2,['Uniswap V2'],2511829.265979187,Meter
+Lending,Starlay Finance,['Aave'],2504120.377687747,Astar
+Dexes,NEOPIN Pool,['Uniswap V2'],2502376.5680207373,Multi-Chain
+Bridge,XY Finance,,2501980.022777435,Multi-Chain
+Dexes,FIN,,2497368.7803507815,Kujira
+CDP,USK,,2496797.2282296065,Kujira
+Dexes,10KSwap,,2486854.2061605747,Starknet
+Liquid Staking,Hord,,2477421.9869996407,Ethereum
+Options,Buffer Finance,,2475789.249549599,Multi-Chain
+Payments,Sushi Furo,,2474652.900346342,Multi-Chain
+Derivatives,El Dorado Exchange,['GMX'],2469018.2722004317,Multi-Chain
+Dexes,Ubeswap,['Uniswap V2'],2454671.65663996,Celo
+Dexes,RadioShack,['Uniswap V2'],2452549.756469137,Multi-Chain
+Lending,WanLend,['Compound'],2424519.6190833785,Wanchain
+Options,Opium,,2422045.0844937805,Multi-Chain
+Lending,Hundred Finance,['Compound'],2416109.014880569,Multi-Chain
+Dexes,CherrySwap,['Uniswap V2'],2411052.6783105624,OKExChain
+Derivatives,Polynomial Trade,,2402041.1877560127,Optimism
+Farm,GroveCoin,,2400369.1814608024,Multi-Chain
+Synthetics,CVI Finance,,2397849.548981272,Multi-Chain
+Liquid Staking,sTLOS Liquid Staking,,2396221.416607902,Telos
+Prediction Market,Thales,,2389356.8873840757,Multi-Chain
+Chain,ZKSwap,,2376785.1197346244,Ethereum
+Staking Pool,Filet Finance,,2370339.194298178,Filecoin
+Yield,Extra Finance,,2365370.3079222483,Optimism
+Lending,Goledo,['AAVE'],2347907.0524594584,Conflux
+Privacy,Sienna Network,,2342590.5581643963,Secret
+Dexes,HeliSwap,['Uniswap V2'],2341851.3596686097,Hedera
+Yield,Sunny,,2316610.1134645776,Solana
+Options Vault,Olive,,2296948.074144011,Multi-Chain
+Dexes,Solidly V2,['Solidly'],2292035.9786579194,Ethereum
+Dexes,Libre Swap,,2285526.7797811,Libre
+Dexes,Tealswap,['Uniswap V2'],2285297.714053838,Oasys
+Dexes,Zeniq Swap,,2277024.77256648,Zeniq
+Indexes,Agility LSD,,2256274.547980211,Ethereum
+Dexes,Parallel AMM,,2256119.119572155,Multi-Chain
+Dexes,Axial,['Saddle Finance'],2226196.3175131944,Avalanche
+Liquid Staking,Quicksilver Protocol,,2219531.662249882,Quicksilver
+Lending,Tonpound,['Compound'],2218546.6494271206,Ethereum
+Dexes,Humble Defi,,2201181.553742011,Algorand
+Farm,Polycat,['Uniswap V2'],2196094.710970366,Polygon
+Yield,SingularityDAO,,2195419.1269444516,Multi-Chain
+Dexes,Polkaswap,,2172611.63236215,Sora
+Lending,Fountain Protocol,['Compound'],2152996.664316396,Oasis
+Dexes,Unicly,['Uniswap V2'],2147070.1675281096,Ethereum
+Dexes,Nerve Staking,,2128575.0,Nuls
+Dexes,Proton Swap,,2128480.763586446,Proton
+Liquidity manager,Unipilot,,2121318.519974184,Multi-Chain
+Dexes,ClaimSwap,['Uniswap V2'],2118751.7375261374,Klaytn
+Options Vault,Katana,,2114888.915914504,Solana
+Insurance,Ensuro,,2114599.89487,Polygon
+Yield Aggregator,Affine DeFi,,2111485.5765735805,Multi-Chain
+Dexes,mySwap,,2097281.0499005956,Starknet
+Dexes,WYND DEX,,2091204.965648308,Juno
+Dexes,Defi Swap,['Uniswap V2'],2089453.1809480123,Ethereum
+Farm,ZoomSwap,['Goose Finance'],2078417.9153564703,IoTeX
+Dexes,BenSwap,['Uniswap V2'],2075695.7862806115,Multi-Chain
+Derivatives,Bluefin,,2073296.656432,Arbitrum
+Dexes,BSCSwap,['Uniswap V2'],2072039.2576226098,Binance
+Dexes,Perlin,,2070244.0379428915,Ethereum
+Lending,Sovryn Lend,,2069877.08039835,RSK
+Dexes,Definix,,2058491.2382492563,Multi-Chain
+Liquid Staking,stkd-SCRT,,2052914.657971871,Secret
+Options,Zeta,,2049558.2188306812,Solana
+Yield,Zookeeper,,2046295.38976243,Multi-Chain
+Dexes,Smoothy,,2031309.4282753095,Multi-Chain
+Lending,CREAM Lending,['Compound'],2029988.3179163437,Multi-Chain
+Dexes,Dexter,,1981858.8601356768,Persistence
+Yield Aggregator,Phoenix Bonds,,1963763.1214889705,Near
+Dexes,Swaap,,1949136.192831077,Polygon
+Derivatives,Morphex,['GMX'],1943075.9696523221,Fantom
+Dexes,Forge,['Uniswap V3'],1931367.8511869335,Evmos
+Dexes,Swapr,['Uniswap V2'],1913340.7242775743,Multi-Chain
+Dexes,STON.fi,,1912417.987660268,TON
+Options,PsyOptions,,1905029.547595287,Solana
+Dexes,DeDust,,1897293.8438689483,TON
+Dexes,Proton Dex,,1872774.934817,Proton
+Yield,UniFarm,,1863732.2692886994,Multi-Chain
+Payments,Superfluid,,1863254.4367852043,Multi-Chain
+Dexes,Spectrum Finance,,1858831.1543742002,Ergo
+Algo-Stables,Sigmausd,,1856887.489516321,Ergo
+Uncollateralized Lending,TrueFi,,1851826.4520259872,Ethereum
+Yield,Cyclone,,1811298.316652761,Multi-Chain
+Lending,WEMIX.FI Lend,,1798184.3865101323,WEMIX
+Algo-Stables,Sperax USD,,1786313.4545533478,Multi-Chain
+Services,Hodl Fox,,1780943.62,Mixin
+Derivatives,LionDEX,,1774510.1288188042,Arbitrum
+Dexes,Terraswap,,1758101.730085513,Multi-Chain
+Bridge,Interlay BTC,,1755955.9780434,Interlay
+Dexes,ShadowSwap,['Uniswap V2'],1744707.308356468,CORE
+Dexes,FstSwap,['Uniswap V2'],1739209.4432531432,Binance
+Dexes,Integral,,1735653.2383581493,Multi-Chain
+RWA,CACHE.Gold,,1728467.4477148666,Ethereum
+Options,Siren,,1726496.3804735572,Multi-Chain
+Dexes,Solunea,['Solidly'],1711283.5565121667,Multi-Chain
+Dexes,Nerve,['Saddle Finance'],1706625.2292339443,Binance
+Lending,Beta Finance,,1699950.161989245,Multi-Chain
+RWA,Meld Gold,,1692147.4826660233,Algorand
+Yield,Pods Yield,,1678974.470644796,Ethereum
+Dexes,Titano Swych,['Uniswap V2'],1678618.298260658,Binance
+Dexes,MCDEX,,1670923.17275627,Multi-Chain
+Yield,Rodeo,,1669199.560669,Arbitrum
+Dexes,Hydradex V3,['Uniswap V3'],1668179.792716573,Hydra
+Lending,Annex,,1668081.0079984798,Multi-Chain
+Liquid Staking,IFPool,,1665574.3198119253,CSC
+Liquidity manager,Range Protocol,,1659096.227488877,Multi-Chain
+Dexes,FX Swap,['Uniswap V2'],1654053.5550155404,FunctionX
+Options,Option Dance,,1634345.89,Mixin
+Derivatives,DerivaDEX,,1632214.178816706,Ethereum
+Algo-Stables,DefiDollar DAO,,1627774.7892526737,Ethereum
+Dexes,QuipuSwap V2,,1626243.9000189004,Tezos
+Dexes,MagicFox Swap,['Solidly'],1620158.1975330552,Multi-Chain
+Dexes,Elk,['Uniswap V2'],1611268.2898417495,Multi-Chain
+Dexes,Demex,,1609719.4782475494,Carbon
+Yield,GoodDollar,,1608151.7497815336,Multi-Chain
+Yield,DELV,,1568624.4331146246,Ethereum
+Services,Mean Finance,,1567197.2706655648,Multi-Chain
+Services,Bond Protocol,,1561488.8234402325,Multi-Chain
+Yield,Geyser,,1560627.6000348665,Multi-Chain
+Yield,Kalmy App,,1554237.4241906041,Multi-Chain
+Lending,0vix,['Compound'],1533807.7613795958,Multi-Chain
+Liquid Staking,Socean,,1531567.373194045,Solana
+Dexes,Lif3 Swap,['Uniswap V2'],1524068.350008654,Multi-Chain
+Dexes,Arbswap StableSwap,,1522857.6427674298,Multi-Chain
+CDP,Nitron,['Demex'],1522655.333680008,Carbon
+Dexes,Eklipse Finance,['Curve'],1522306.0094293787,Klaytn
+Dexes,LFGSwap Core,['Uniswap V2'],1516197.5038316443,CORE
+Lending,Tropykus RSK,['Compound'],1505998.5599208185,RSK
+Dexes,EmpireDEX,['Uniswap V2'],1493191.0392368352,Multi-Chain
+Prediction Market,Augur,,1492306.197526057,Ethereum
+Services,Nested,,1487006.2257664958,Multi-Chain
+Dexes,Moon Swap,['Uniswap V2'],1479228.5052733775,Conflux
+Derivatives,Y2K V1,,1477964.1451817343,Arbitrum
+Dexes,Tokenlon,,1474369.6036479909,Ethereum
+Dexes,NerveSwap,,1471997.06348,Nuls
+Dexes,Bunicorn,,1468566.8752968472,Binance
+Derivatives,handle.fi Perps,['GMX'],1463511.4895932197,Arbitrum
+Derivatives,RabbitX,,1460899.0969385093,Ethereum
+Yield,Planet Farm,,1457517.1902190784,Binance
+Dexes,Gyroscope Protocol,,1455291.239665086,Polygon
+Farm,Bao Masterchef V1,,1453883.2943439602,Multi-Chain
+Options,Cega,,1445803.0267719585,Multi-Chain
+CEX,BitVenus,,1442002.9778590635,Multi-Chain
+CDP,Arkadiko,,1437432.7397347006,Stacks
+Indexes,PieDAO,,1417743.9345525086,Ethereum
+Algo-Stables,Algomint,,1412995.7387726752,Algorand
+Dexes,MM Finance Polygon,['Uniswap V2'],1410834.2189284663,Polygon
+Dexes,DDEX,,1397010.1670055173,Ethereum
+Dexes,Voltage,"['Uniswap V2', 'Compound']",1367561.8497913708,Fuse
+Dexes,Camelot V3,['Algebra DEX'],1355866.0752911533,Arbitrum
+Yield,Scrub Invest,,1353204.4423709258,Kava
+Lending,Prime Protocol,,1351402.3863257542,Multi-Chain
+Lending,Lenen,['Compound'],1348384.1355454104,Vision
+Yield,Hyper Finance,,1344271.5957552607,Binance
+Dexes,SaitaSwap,['Uniswap V2'],1342947.905025548,Multi-Chain
+Yield,Golff Protocol,,1339502.6903609545,Multi-Chain
+Synthetics,Wrap Protocol,,1326679.2760296115,Ethereum
+Lending,Mesher,['Compound'],1326486.6481721564,Multi-Chain
+Dexes,Sirius Finance,['Curve'],1320045.1271325436,Astar
+Yield,Popcorn,,1316363.967081804,Multi-Chain
+CDP,FLRLoans,['Liquity'],1314058.5736362722,Songbird
+Liquid Staking,Stakehouse,,1313541.139329071,Ethereum
+CDP,Ratio Finance,,1311921.811324134,Solana
+Yield,Quoll,['Convex Finance'],1307192.7457482538,Binance
+Lending,Apricot Finance,,1306573.5936325262,Solana
+Dexes,Swapsicle,['Uniswap V2'],1306084.6702670068,Multi-Chain
+Yield,Liquid Finance,,1295111.351004361,Arbitrum
+Yield,Revault,,1294845.9082265063,Binance
+Yield,Mero,,1294333.1656282186,Ethereum
+Dexes,QuipuSwap Stableswap,,1284250.247026963,Tezos
+Dexes,WagyuSwap,['Uniswap V2'],1281284.0006936148,Velas
+Dexes,LFGSwap Arbitrum,['Uniswap V2'],1267058.6895001917,Arbitrum
+Lending,LendFlare,,1264875.1540002425,Ethereum
+Yield Aggregator,Spice Finance,,1262120.1491919302,Ethereum
+Dexes,Blueshift,,1259371.8001971692,Multi-Chain
+Dexes,YuzuSwap,['Uniswap V2'],1258503.5729737114,Oasis
+Farm,Sperax Demeter,,1257906.1794542568,Arbitrum
+RWA Lending,Goldfinch,,1256575.395546,Ethereum
+Services,Hats.Finance,,1253445.3963127905,Ethereum
+Lending,Mimas Finance,['Compound'],1253008.4896313334,Cronos
+Yield,PembRock Finance,,1248915.794527503,Near
+Reserve Currency,Pluto,,1247867.786556734,Waves
+Gaming,AstarFarm,,1245136.1836418654,Astar
+Derivatives,Perp88,,1244967.6355750388,Polygon
+Derivatives,Onchain Trade,,1241920.3016361115,zkSync Era
+Lending,Hadouken Lend,,1238676.194248911,GodwokenV1
+Liquidity manager,Dyson,,1225867.8878865289,Multi-Chain
+Dexes,LuaSwap,['Uniswap V2'],1219185.6170026744,Multi-Chain
+Dexes,IcecreamSwap,['Uniswap V2'],1208933.0710793354,Multi-Chain
+Yield,Bearn,"['Uniswap V2', 'Compound']",1207644.4641685782,Binance
+Derivatives,Aboard Exchange,,1205311.5627524771,Multi-Chain
+Farm,Monopoly Finance,,1193462.5211291653,Arbitrum
+Dexes,Step Exchange,,1186468.232459127,Step
+Lending,ForTube,,1183140.3694623264,Multi-Chain
+Liquid Staking,NF3 APE,,1182063.703794045,Ethereum
+Farm,Goose Finance,,1177472.69,Binance
+Dexes,Hashflow,,1172859.0833474493,Multi-Chain
+Dexes,HiveSwap,['Uniswap V2'],1160170.429614816,Map
+CDP,Equilibrium,,1159202.232643742,Equilibrium
+Yield,Fractal Protocol,,1158542.5266828923,Multi-Chain
+Lending,Starfish Finance,['Compound'],1155936.6002514216,Astar
+Dexes,MM Finance Arbitrum V3,['Uniswap V3'],1155274.7138803278,Arbitrum
+Derivatives,Madmex,['GMX'],1152737.113137957,Polygon
+CDP,GotchiVault,['QiDao'],1149848.7189957069,Polygon
+Yield,Universe XYZ,,1149727.499227407,Ethereum
+Dexes,Maia V3,['Uniswap V3'],1145704.5407071584,Metis
+NFT Marketplace,Caviar V1,,1144603.9289750885,Ethereum
+Liquid Staking,sKCS,,1139677.505317909,Kucoin
+Dexes,Pandora,,1131443.3802314366,Binance
+Liquidity manager,Popsicle Finance,,1129986.525838537,Multi-Chain
+Liquidity manager,Antfarm finance,['Uniswap V2'],1118371.7476759027,Multi-Chain
+Liquid Staking,Tenderize,,1113850.153407734,Multi-Chain
+Yield,SpiralDao,,1108821.9999483519,Ethereum
+Dexes,NiiFi,['Uniswap V2'],1098997.3189483276,Nahmii
+Services,Gardens DAO,,1094369.957472828,xDai
+Yield,0xDAO,,1090103.455959153,Fantom
+Lending,Paladin Vote,,1085944.0639925213,Ethereum
+Synthetics,ION DAO,,1084031.5596662401,Osmosis
+Lending,88mph,,1084017.0100372317,Multi-Chain
+Dexes,OreoSwap,['Uniswap V2'],1076169.555483697,Arbitrum
+Lending,Timeswap V2,,1065692.8539203228,Multi-Chain
+Dexes,PegaSys,['Uniswap V2'],1064167.4088821143,Syscoin
+CDP,GARD,,1062664.0415462973,Algorand
+Liquid Staking,Argo Finance,['DIA'],1062480.7649597675,Cronos
+Derivatives,Voltz,,1056185.3326010592,Ethereum
+Yield,Defily,,1051917.113804752,Multi-Chain
+Synthetics,Taiga Protocol,,1029722.8396317642,Karura
+Lending,Puzzle Lend,,1029363.4670820086,Waves
+Yield,Neutra Finance,,1017146.1763567228,Arbitrum
+Synthetics,Parcl,,1015258.988662,Solana
+Dexes,OpenOcean,,1008974.2698219846,Multi-Chain
+NFT Lending,Revest Finance,,1003594.3647417885,Multi-Chain
+Options Vault,Friktion,,997834.1284572291,Solana
+Cross Chain,Kintsugi,,994955.76614465,Kintsugi
+Synthetics,Scientix,['Alchemix'],992146.17,Binance
+Dexes,Penguin,,990976.2798602327,Solana
+Dexes,Baryon Network,,989806.620980259,Binance
+Dexes,Tethys AMM,"['Uniswap V2', 'Impermax Finance']",988494.4597857918,Metis
+Dexes,Plenty,,987912.7278033693,Tezos
+Dexes,Fusion Dex,['Uniswap V2'],986806.8917911034,Multi-Chain
+Indexes,Phuture,,979827.7608600057,Multi-Chain
+Dexes,Intercroneswap,['Uniswap V2'],970856.1067177337,Multi-Chain
+Dexes,Sphynx,['Uniswap V2'],970825.5973368753,Multi-Chain
+Dexes,KuSwap,['Uniswap V2'],969393.9221077837,Kucoin
+Dexes,Kagla Finance,['Curve'],957971.3294281571,Astar
+Dexes,eckoDAO,,954114.9983848844,Kadena
+Dexes,Saros,,948848.1113478807,Solana
+Synthetics,PERI Finance,,941502.0,Multi-Chain
+RWA Lending,Centrifuge,,937750.9706385978,Ethereum
+Derivatives,FutureSwap,,927442.0683080864,Multi-Chain
+Dexes,Swarm Markets,['Balancer'],912239.8943084131,Multi-Chain
+Dexes,SnowSwap AMM,,904831.809450042,Crab
+Derivatives,HashDAO Finance,,903773.6072246425,Arbitrum
+Dexes,SocialSwap,,903053.4200825694,Tron
+Yield,APY Finance,,901383.903994,Ethereum
+Dexes,Glide Finance,['Uniswap V2'],898050.3513315695,Elastos
+Lending,Radiant V1,['Aave'],895828.3762953567,Arbitrum
+Cross Chain,KEEP Network,,893740.353694018,Ethereum
+Derivatives,Contango,,890801.3265004854,Multi-Chain
+Derivatives,Cap V4,,887918.6143196817,Arbitrum
+Indexes,Symmetry,,886861.3594801712,Solana
+Lending,SmartCredit,,885302.6131322758,Ethereum
+Liquidity manager,Unibot V2,,885121.6410586728,Multi-Chain
+Yield,Sense,,883997.5877080079,Ethereum
+Dexes,MM Finance Arbitrum,['Uniswap V2'],880226.4983886782,Arbitrum
+Dexes,Karura Swap,,878664.5679053271,Karura
+CDP,Fluidity Money,,875724.5694043182,Multi-Chain
+Dexes,Rubicon,,869214.8160954296,Optimism
+Dexes,CrowdSwap,,866718.4555325891,Multi-Chain
+Prediction Market,ZKasino,,861176.5666550299,Multi-Chain
+Lending,MANTRA DAO,,857849.1214003894,Multi-Chain
+Dexes,Alita Finance,['Uniswap V2'],855142.9959487907,Binance
+Insurance,InsureDAO,,854151.251753,Multi-Chain
+Yield,Pacoca,,851483.64253785,Binance
+Dexes,Noah Swap,['Uniswap V2'],848856.0275625812,EOS EVM
+Lending,Omnidex Lend,['AAVE'],838044.5792683003,Telos
+CDP,Harbor Protocol,,836113.3775887929,Comdex
+Lending,Illuminate,,834847.2700307611,Ethereum
+Yield Aggregator,OnX Finance,,830048.6881816968,Multi-Chain
+Dexes,Crodex,['Uniswap V2'],828764.2739732345,Cronos
+Liquidity manager,Charm Finance,,827633.1150944048,Ethereum
+Dexes,Flair Dex,['Solidly'],818103.107132098,Avalanche
+Derivatives,KTX.Finance,['GMX'],814188.6395730535,Binance
+Liquid Staking,Ditto,,812297.118989052,Aptos
+NFT Lending,Astaria,,812227.0945210396,Ethereum
+Bridge,PepeTeam Bridge,,811709.2748408406,Multi-Chain
+Insurance,Cover Protocol,,811014.831052027,Ethereum
+Yield,Spectrum Protocol,,809728.8240738886,Multi-Chain
+Dexes,Vexchange,['Uniswap V2'],803467.0346219006,VeChain
+Yield,Alchemist,,795707.2438575218,Ethereum
+Derivatives,AnyHedge,,793588.2,Bitcoincash
+Yield,Swamp Finance,,786222.7156636363,Binance
+Cross Chain,MessinaOne,,785178.6369788364,Multi-Chain
+Lending,Ram Protocol,['Compound'],782443.2675956538,ThunderCore
+Leveraged Farming,BAO Baskets,,782080.4503467367,Ethereum
+Insurance,iTrust Finance,,777748.4672366881,Ethereum
+CDP,Iron Finance,['Frax'],771846.8641228987,Multi-Chain
+Derivatives,Vega Protocol,,771739.9537262871,Ethereum
+NFT Lending,Drops,['Compound'],771223.127124774,Ethereum
+Dexes,OolongSwap,['Uniswap V2'],771221.074678744,Boba
+Yield,Sector Finance,,771061.3073555672,Multi-Chain
+Dexes,Ocean One,,765659.06,Mixin
+Dexes,Spartacus Exchange,['Solidly'],765332.2389818962,Fantom
+Derivatives,Tethys Perpetual,['GMX'],765102.0086818939,Metis
+Dexes,Zenlink AMM,['Uniswap V2'],764775.7226374993,Multi-Chain
+Lending,zkLend,,764520.2072241841,Starknet
+Yield,Grim Finance,,753331.0158534,Multi-Chain
+Lending,Rabbit Finance,,750336.0780597485,Binance
+Gaming,Aavegotchi,,746386.6981783774,Multi-Chain
+Dexes,MetaTdex,,745388.2615508471,Multi-Chain
+Dexes,Carbon Defi,,742821.0241391748,Ethereum
+Lending,Tranquil Finance,['Compound'],742636.6347408236,Harmony
+Dexes,Kromatika,,742193.220841271,Multi-Chain
+Dexes,Wavelength DAO,['Balancer'],741485.8712973311,Velas
+Options Vault,Spin DOV,,736909.2425741414,Near
+Dexes,SecretSwap,,732207.1150156523,Secret
+Dexes,BeamSwap Classic,['Uniswap V2'],728277.8917241676,Moonbeam
+Dexes,Blue Planet,,720983.4549067313,Binance
+Derivatives,MarginX,,717571.4602297903,FunctionX
+Liquid Staking,Geode,['Saddle Finance'],709527.1575894977,Avalanche
+Farm,Cub Finance,"['Goose Finance', 'Autofarm']",700958.2583460126,Binance
+Options,Wasabi,,698805.9787414998,Ethereum
+RWA,Stream Finance,,695308.2546926981,Ethereum
+Dexes,DogeSwapOrg,['Uniswap V2'],693441.4386978073,Dogechain
+Dexes,OasisSwap,,689161.9567000604,Arbitrum
+Yield Aggregator,Hawksight,,688476.6906743523,Solana
+Lending,Vendor V1,,686630.7782034122,Multi-Chain
+Bridge,SWFT,,684868.4502232119,Multi-Chain
+Yield,BTCST,,683350.0749328391,Binance
+Dexes,Cometh,['Uniswap V2'],682968.8313770284,Polygon
+Lending,Scream,['Compound'],681751.9745835769,Fantom
+Dexes,Forthewin Network,,678343.4701029382,NEO
+Dexes,Bitindi Dex,['Uniswap V2'],673991.4490057966,Bitindi
+Yield,TEN Finance,,670056.7711251107,Binance
+Dexes,CroSwap,['Uniswap V2'],670048.1373815229,Multi-Chain
+Lending,Vigor,,664956.4950491212,EOS
+Yield,iZUMi LiquidBox,,660388.3814171623,Multi-Chain
+Liquid Staking,PepeTeam sWAVES,,659610.0641158704,Waves
+Dexes,JulSwap,['Uniswap V2'],658893.8754314042,Binance
+Liquid Staking,BlazeStake,,658397.9161708822,Solana
+Dexes,Spartan,,654249.2203507142,Binance
+NFT Lending,Sharky,,652713.6610646395,Solana
+Dexes,Paraluni Dex,['Uniswap V2'],651319.5346775415,Binance
+NFT Marketplace,GumBall Protocol,,650216.4169602401,Arbitrum
+Leveraged Farming,Steadefi,,649927.7482451078,Multi-Chain
+Yield,JetFuel Finance,['Compound'],649634.2021155725,Binance
+Liquid Staking,ThunderPOKT,,649296.9807989908,Polygon
+Dexes,JustMoney,,649165.5433607036,Multi-Chain
+Dexes,SnowSwap,"['Saddle Finance', 'Uniswap']",648903.8250488392,Multi-Chain
+Dexes,Clober,,645550.4974005406,Multi-Chain
+Dexes,VaporDex,,644894.5285582382,Avalanche
+Algo-Stables,Ostable,,644666.6962232416,Obyte
+Dexes,Polycat Dex,['Uniswap V2'],636132.4417905399,Polygon
+CDP,Interest Protocol,,628008.0776998074,Ethereum
+Dexes,JetSwap,['Uniswap V2'],625534.3383488201,Multi-Chain
+Yield,Snowball,"['Pickle', 'Saddle Finance']",623667.4256843799,Avalanche
+Dexes,Zyberswap AMM,['Algebra DEX'],618462.8526818792,Arbitrum
+Options Vault,AlgoRai Finance,,618200.5781674365,Algorand
+Dexes,TangoSwap,['Uniswap V2'],617551.3190217403,smartBCH
+Dexes,Aequinox,,617439.2419816168,Binance
+Dexes,Mobius Money,['Saddle Finance'],616730.2688758988,Celo
+Bridge,Strudel Finance,,615787.3769544001,Ethereum
+RWA,Landshare,,615059.9999999999,Binance
+Derivatives,Flux Exchange,['GMX'],612614.2536068491,Multi-Chain
+Liquid Staking,Yield Yak Staked Avax,,612472.4426137027,Avalanche
+Yield,Ruby.Exchange Yield,,610628.3805066396,Europa
+Insurance,Neptune Mutual,,606976.053952,Multi-Chain
+Lending,Aries Markets,,604138.6872617928,Aptos
+Dexes,BXH,['Uniswap V2'],601434.3895879823,Multi-Chain
+Dexes,Purple Bridge DEX,,598906.613974,Polygon
+Yield,ReHold,,596904.1216798073,Multi-Chain
+Dexes,Soy Finance,['Uniswap V2'],595456.7383899149,Multi-Chain
+Dexes,AstroSwap,['Uniswap V2'],594612.6788209996,Velas
+Lending,Yupana,,593480.7908358548,Tezos
+Yield Aggregator,yAxis,,592220.6747694504,Ethereum
+Dexes,RCPswap,['Uniswap V2'],591606.6060296205,Arbitrum Nova
+Dexes,Energiswap,['Uniswap V2'],591184.1989129457,Energi
+Dexes,HyperJump,['Uniswap V2'],590987.6478345337,Multi-Chain
+Lending,Pilot Protocol,,590686.6078396864,Heco
+Dexes,KSwap Finance,['Uniswap V2'],589440.3531652284,OKExChain
+Lending,SpiritSwap Lending,['Compound'],587252.8036205339,Fantom
+Dexes,CronaSwap,['Uniswap V2'],585081.7787764107,Cronos
+Dexes,JSwap,['Uniswap V2'],583271.2930684114,OKExChain
+Dexes,Ruby.Exchange Stable,,581580.9630697403,Europa
+Synthetics,insrt finance,,576843.62757,Ethereum
+Yield Aggregator,KillSwitch,,575055.4608225455,Multi-Chain
+Dexes,Coinswap Space,['Uniswap V2'],568385.2309110921,Binance
+Dexes,OccamX,['Uniswap V2'],566433.2353208557,Milkomeda
+Dexes,Auragi Finance,['Solidly'],565966.0254086973,Arbitrum
+Derivatives,MetalSwap,,559419.6655885351,Multi-Chain
+Yield,Tranche Finance,,558877.940539017,Multi-Chain
+Derivatives,Lif3 Trade,['GMX'],557116.6860838501,Multi-Chain
+Options Vault,Chest Finance,,557045.2624680889,Solana
+Dexes,Dove Swap V3,['Uniswap V3'],551575.1344649652,Polygon zkEVM
+NFT Lending,Pine Protocol,,550293.3244969175,Multi-Chain
+Yield,Volmex,,546972.4196468601,Multi-Chain
+Dexes,Convergence,['Uniswap V2'],542340.4311405161,Multi-Chain
+Derivatives,HoldStation DeFutures,,540289.480725,zkSync Era
+Dexes,KyotoSwap,['Uniswap V2'],537978.2061081163,Binance
+Dexes,MakiSwap,,537498.7386007895,Heco
+Privacy,zkBob,,536581.9846545563,Multi-Chain
+Yield,Big Data Protocol,,530323.5590750705,Ethereum
+Synthetics,ThetaCash,,526166.20267909,Theta
+Dexes,Pulsar Swap,,523890.9539233196,Multi-Chain
+Lending,BAO Markets,,521359.6270684622,Ethereum
+Lending,MochiFi,,521109.61945476965,Ethereum
+Insurance,Cozy V2,,517922.622151,Optimism
+Dexes,cSwap,,515065.98557349015,Comdex
+Launchpad,Mint Club,,513769.3365592012,Binance
+Insurance,Ante Finance,,513539.72829164995,Multi-Chain
+Liquid Staking,sCANTO,,513026.3824345655,Canto
+Bridge,Butter Network,,512020.8205012032,Multi-Chain
+Lending,Goldbank Finance,,510590.30191013496,Arbitrum
+Liquid Staking,Avely Staking,,510319.81152665836,Zilliqa
+Dexes,ProtoFi,['Uniswap V2'],509003.5471535047,Fantom
+CDP,Davos Protocol,['MakerDAO'],508930.1733956234,Polygon
+Dexes,Globiance,['Uniswap V2'],503071.85883961624,XDC
+Yield,Kogefarm,,499390.4571512945,Multi-Chain
+Dexes,Aldrin,,498244.0405000464,Solana
+Options,Opyn Convexity,,496801.48427354667,Ethereum
+Dexes,Dystopia,['Solidly'],496338.5175605561,Polygon
+Dexes,BlockNG,,496329.54656698427,smartBCH
+Indexes,Cryptex V1,,492184.84928523406,Multi-Chain
+Services,Concave,,488326.16943869455,Ethereum
+Insurance,Cozy V1,['Compound'],488249.5488096618,Ethereum
+Dexes,DefiPlaza,,487405.8451570578,Ethereum
+Synthetics,Taiga Acala,,484061.83396895375,Acala
+Lending,Genshiro,,482288.83921500004,Genshiro
+Bridge,Enosys Bridge,,481121.2221064787,XDC
+Staking Pool,TronNRG,,478611.87692132837,Tron
+Dexes,Levinswap,['Uniswap V2'],475863.7960860848,xDai
+Dexes,WardenSwap,['Uniswap V2'],473187.5369042379,Binance
+Dexes,MistSwap,['Uniswap V2'],471091.6128652984,smartBCH
+Yield,Rift Finance,,464820.6710774731,Multi-Chain
+Dexes,Hadouken AMM,,463114.39296846883,GodwokenV1
+Lending,Ooki,,461890.4254936852,Multi-Chain
+Indexes,PowerPool,,461445.8502142399,Multi-Chain
+Dexes,Pala,,459848.5523360469,Klaytn
+Lending,Arbor Finance,,458260.6763063248,Ethereum
+Options Vault,Polynomial Earn,,456793.959797204,Optimism
+Dexes,Solidly,,455637.68448577856,Fantom
+Yield Aggregator,Solidex,,453970.7485399093,Fantom
+Dexes,PinkSwap,['Uniswap V2'],452164.5502521569,Binance
+Dexes,ThetaSwap,['Uniswap V2'],450914.8282873238,Theta
+Dexes,ExinSwap,,449717.99,Mixin
+Yield,Vaultka,['Rage Trade'],448981.08165670966,Arbitrum
+NFT Marketplace,Collection.xyz,,448186.48374859896,Ethereum
+Dexes,Starswap Starcoin,,446916.1703990653,Starcoin
+Derivatives,Tsunami.Finance,,444140.51717872906,Aptos
+Dexes,SatoshiCoreSwap,['Uniswap V2'],442264.5199109212,CORE
+Lending,Nereus Finance,,441116.47232548206,Avalanche
+Launchpad,Impossible Finance,['Uniswap V2'],440020.909464943,Multi-Chain
+Dexes,Pippi,['Uniswap V2'],439740.00055890705,Heco
+Insurance,Risk Harbor,,439603.1307954757,Multi-Chain
+Dexes,QuipuSwap V1,,437142.22252516676,Tezos
+Indexes,Asymmetry Finance,,434117.28216716944,Ethereum
+Yield,Growth DeFi,,433786.18716596166,Multi-Chain
+Yield,NFTb,,433058.8928283844,Binance
+Dexes,Gridex,,432098.2033737569,Arbitrum
+Dexes,GIBXSwap,['Uniswap V2'],431716.1717613497,Binance
+Dexes,Swerve,['Curve'],430999.6532207603,Ethereum
+Dexes,AlienFi,,430044.57221101684,Arbitrum
+Lending,LendeXe Finance,['Compound'],429370.32798310416,Ethereum
+Dexes,Dinosaur Eggs,['Uniswap V2'],429308.4612894264,Binance
+Lending,Fuji Finance,,426500.6006154171,Multi-Chain
+Yield,Steroids,,425763.2778853022,Ethereum
+Dexes,XDeFi,,422724.5239296797,Ethereum
+Dexes,Component,,420219.19184018346,Multi-Chain
+Dexes,SoulSwap,['Uniswap V2'],418916.43570390425,Multi-Chain
+Lending,Moremoney,,417836.0,Avalanche
+NFT Lending,X2Y2,,415463.59431899997,Ethereum
+Lending,Whitehole Finance,['Compound'],415073.8530879707,Arbitrum
+Dexes,RBX,,413886.5386802357,Multi-Chain
+Lending,Percent Finance,['Compound'],412775.555229416,Ethereum
+Lending,Unilend,,410913.48076896765,Multi-Chain
+Derivatives,Mycelium Perpetual Swaps,['GMX'],409860.95545577444,Arbitrum
+Services,HaloFi,,409340.931281386,Multi-Chain
+Dexes,KibbleSwap,['Uniswap V2'],408756.03560029186,Dogechain
+Cross Chain,Counterstake,,401673.97848616,Multi-Chain
+CDP,xBacked,,396228.093825806,Algorand
+Dexes,CarbonSwap,['Uniswap V2'],395468.22305912094,EnergyWeb
+Dexes,Veax,,389581.07581748225,Near
+Bridge,Knit Finance,,386243.2102579311,Multi-Chain
+Options,Pods Finance,,386049.55075728305,Multi-Chain
+Dexes,Arctic,['iziSwap'],386041.7084097655,Aurora
+Derivatives,OPX Finance,['GMX'],385888.78730759525,Optimism
+Lending,Increment Lending,,384638.44405239,Flow
+Insurance,Bridge Mutual,,382577.4479769454,Multi-Chain
+Dexes,OneSwap,,382275.10567168036,Multi-Chain
+Liquidity manager,Quadrat,,380393.37225318456,Multi-Chain
+Yield,Mover,,379671.7225341147,Multi-Chain
+Dexes,Polaris Finance,['Balancer'],375328.1252953745,Aurora
+Yield,Penguin Finance,,373994.8628953881,Avalanche
+Dexes,W3swap,['Uniswap V2'],372392.1783722646,Binance
+Dexes,WAGMI,['Uniswap V3'],371747.9149324991,Multi-Chain
+Dexes,MIND Games,['Uniswap V2'],369688.40047852765,Arbitrum
+Cross Chain,Router Protocol,,368096.962387422,Multi-Chain
+Yield,Swivel Finance,,364374.87793066684,Ethereum
+Dexes,LaserSwap,['Uniswap V2'],362421.2075233304,ThunderCore
+Yield,Comb Financial,"['Liquid Driver', 'Reaper Farm']",359463.72264002834,Fantom
+Lending,Neku,['Compound'],358743.6616320123,Multi-Chain
+Derivatives,Mycelium Perpetual Pools,,358375.1637,Arbitrum
+Yield,ZooDAO,,357885.87038044655,Moonbeam
+Yield,Guru Network,,356942.4290936488,Multi-Chain
+Dexes,Swop,,355594.2035034,Waves
+Dexes,xSigma,,353659.5181068684,Ethereum
+Yield,Unagii,,347398.6437027692,Ethereum
+Bridge,deBridge,,346537.762285058,Multi-Chain
+Prediction Market,LunaFi,,344795.68105501065,Polygon
+Yield,Stabl.fi,['Origin Dollar'],343613.09877813,Polygon
+Dexes,Gin Finance,['Uniswap V2'],341163.39749802125,Boba
+Bridge,DotOracle,,340299.5987707897,Multi-Chain
+Dexes,Telos Swap,,339052.3156627935,Telos
+Dexes,VeRocket,['Uniswap V2'],338269.22877735586,VeChain
+Uncollateralized Lending,Union Protocol,,338138.74527004955,Multi-Chain
+Algo-Stables,Based V1,['Tomb Finance'],337091.5487253036,Fantom
+Dexes,HebeSwap,['Uniswap V2'],330369.7770096885,EthereumClassic
+Dexes,AutoShark,['Uniswap V2'],328728.4507470707,Binance
+Indexes,Velvet.Capital,,328017.98543733545,Binance
+Yield,Axion,,323460.72879089,Polygon
+Lending,MYSO,,322214.7694520605,Multi-Chain
+Services,QuantumX Network,,320661.5568832346,Elrond
+Lending,Alkemi,,320083.92794220475,Ethereum
+Farm,Weld Finance,,316965.88679083576,Kava
+Lending,Ape Finance,['Compound'],314885.49959256186,Ethereum
+Dexes,Narwhalswap,['Uniswap V2'],314664.62831969163,Binance
+Dexes,Synthetify,,314463.78959693783,Solana
+Derivatives,Cap,,314034.95452346397,Arbitrum
+Lending,unFederalReserve,['Compound'],313730.0246871491,Ethereum
+Lending,Demeter,['Compound'],307772.84975556115,Multi-Chain
+Yield,Optimus,,304783.9055914726,Icon
+Dexes,Cropper,,304761.4815438497,Solana
+Dexes,PantherSwap,['Uniswap V2'],304281.4438287167,Binance
+Derivatives,Rollup Finance,['GMX'],302832.86798944755,zkSync Era
+CDP,xDollar,['Liquity'],301514.4344615274,Multi-Chain
+Dexes,Moonswap,['Uniswap V2'],301282.5553614881,Moonriver
+Dexes,MooniSwap,,300163.6241707582,Ethereum
+Dexes,Crema Finance,,299981.9706794144,Solana
+Dexes,VoltSwap,['Uniswap V2'],298283.4629784742,Multi-Chain
+CDP,DAM Finance,,296853.374092,Ethereum
+Dexes,PureSwap,['Uniswap V2'],294647.45012074226,Binance
+Dexes,Bonkswap,,294017.93351431924,Solana
+Dexes,Alphadex,['Uniswap V2'],293403.18622491776,Multi-Chain
+Dexes,Phenix DEX,['Uniswap V2'],290216.25296778866,Multi-Chain
+Uncollateralized Lending,Atlendis,,284763.7793393547,Polygon
+NFT Lending,Backed,,284080.200928,Ethereum
+Dexes,Algofi Swap,,283521.1704487992,Algorand
+Derivatives,Uniwhale,,282622.4972928105,Binance
+Dexes,OmniDex Swap,['Uniswap V2'],282366.3890963935,Telos
+Dexes,Bored Candy City,['Uniswap V2'],281304.06438114063,Cronos
+NFT Lending,OpenSky Finance,,280947.0474890604,Ethereum
+Leveraged Farming,Zenith,,278509.18623643834,Ethereum
+Yield,CityCoins,,278173.25202392996,Stacks
+Services,stETH.win,,277429.8989712351,Ethereum
+Lending,Sushi Kashi,,274651.0429058048,Multi-Chain
+Algo-Stables,Basis Cash,,272568.6449488592,Ethereum
+Indexes,Astra DAO,,271353.0555925194,Ethereum
+Lending,FluidTokens,,270852.3883154552,Cardano
+Yield,Mars Poolin,,270165.47858785436,Ethereum
+Derivatives,prePO,,268621.5662796256,Arbitrum
+CDP,Hedge,,266575.404197904,Solana
+Dexes,KoffeeSwap,,266490.43509358296,Kucoin
+Staking Pool,FilFi,,266376.74,Filecoin
+Dexes,Lizard,['Uniswap V2'],263414.58910620015,Oasis
+Dexes,KLEX Finance,['Balancer'],263188.38443956425,Klaytn
+Yield,MagicFox Vaults,,261963.64492292737,Multi-Chain
+Lending,Shoebill Finance,,260915.01442742217,Klaytn
+Dexes,Sonic,,260443.36297017068,ICP
+Liquid Staking,Increment Liquid Staking,,258980.0193733305,Flow
+Indexes,BasketDAO,,258245.68005467876,Ethereum
+Dexes,PadSwap,['Uniswap V2'],258199.6340573112,Multi-Chain
+Derivatives,Lemma,,257925.27581722202,Optimism
+Liquid Staking,WYND LSD,,257908.25007909222,Juno
+Yield,Adamant Finance,,256295.52629276598,Multi-Chain
+Dexes,ValueDefi,,255179.25253787794,Binance
+Dexes,BAO Swap,['Uniswap V2'],254759.88097527332,xDai
+Yield,Wasabix,['Alchemix'],253920.154828779,Multi-Chain
+Dexes,AuroraSwap,['Uniswap V2'],253756.65147392693,Aurora
+CDP,Volta Finance,,253111.31279800698,Arbitrum
+Yield,Float Protocol,,251317.8286961982,Ethereum
+Dexes,Oswap AMM,,251158.7905478338,Obyte
+Derivatives,Covo V2,,248060.10142546298,Polygon
+Derivatives,Predy V3.2,,247980.54277439468,Arbitrum
+Dexes,Uswap,['Uniswap V2'],244064.99747870726,Tron
+Insurance,UnoRe,,243572.97796065072,Multi-Chain
+Dexes,DAO Swap,,242958.01437504592,Binance
+Leveraged Farming,zkFox,,242864.975318232,zkSync Era
+Staking Pool,HashMix FIL,,241383.40252097097,Filecoin
+Dexes,MilkySwap,['Uniswap V2'],241367.20167663498,Milkomeda
+Dexes,MetaCoin Swap,,240862.85311622333,Binance
+Dexes,Gravity Finance,['Uniswap V2'],240673.64193372228,Polygon
+Dexes,Algebra DEX,,240483.04060989706,Polygon
+Yield,Paraluni Masterchef,,238847.15059333877,Binance
+Dexes,AtomicHub,,237903.0340142965,Multi-Chain
+Dexes,Neutroswap,['Uniswap V2'],236888.68989704174,EOS EVM
+Yield,METF Finance,,235761.30032839783,Cronos
+Dexes,PandaSwap,,235591.85524055915,Binance
+CDP,handle.fi,,234645.91626948246,Arbitrum
+Synthetics,Yam Finance,['Compound'],234005.72077765386,Ethereum
+Options,FinNexus,,233136.45795862263,Multi-Chain
+Services,Kujira Orca,,232905.43593033467,Kujira
+CDP,Ramp,,232802.57359682658,Multi-Chain
+Options Vault,Bonsai Strike,['Ribbon'],232621.61293188322,Binance
+Yield,YieldWolf,,231205.84069790202,Multi-Chain
+Yield,Bent Finance,,230356.0084231997,Ethereum
+Dexes,Tonic,,229369.19719229845,Near
+Lending,ABEL Finance,['Compound'],229025.29209391592,Aptos
+Dexes,Puzzle Swap,,229016.49864997502,Waves
+CDP,BAO Ballast,,228165.78785614835,Ethereum
+RWA,InVar Finance,,228000.0,Ethereum
+Yield Aggregator,APWine,,226725.5339302997,Multi-Chain
+Dexes,Onsen Swap,['Uniswap V2'],225249.19910095417,zkSync Era
+Insurance,Nsure,,223207.01463659824,Ethereum
+Indexes,Arch Ethereum Web3,['Set Protocol'],222986.87507801293,Ethereum
+Indexes,stake.link index,,222085.01772171084,Ethereum
+Dexes,HurricaneSwap,['Uniswap V2'],220554.38418211372,Avalanche
+Yield,HedgeFarm,,218726.3955762,Avalanche
+Dexes,Polydex,['Uniswap V2'],217980.36084591682,Polygon
+Dexes,StackSwap,,217773.69084996436,Stacks
+Dexes,YouSwap,['Uniswap V2'],217248.18355736553,Multi-Chain
+Yield,Timeless Finance,,216629.77791742873,Ethereum
+Dexes,Archly Finance,['Solidly'],215468.79852981845,Multi-Chain
+Lending,Vendor V2,,214532.1712773694,Arbitrum
+Dexes,Jumbo Exchange,,214409.43366182584,Near
+Yield Aggregator,DarkAuto,,213785.481326574,Multi-Chain
+Yield,Penrose,['0xDAO'],213206.86557407098,Polygon
+Algo-Stables,DarkCrypto,['Tomb Finance'],212966.63613576064,Cronos
+Yield,UniPower,,212814.748609771,Multi-Chain
+Dexes,Beluga Dex,,212151.99850764184,Arbitrum
+NFT Lending,Citrus,,211466.03299992517,Solana
+Launchpad,DexPad,,211260.8750618306,Multi-Chain
+Indexes,Indexed Finance,,210360.15275455912,Ethereum
+Options,Antimatter,,209675.54190610908,Multi-Chain
+Yield Aggregator,Vaporwave,['Beefy'],207530.26,Aurora
+Yield,Layer2 Finance,,207421.3711862407,Ethereum
+Dexes,Nearpad,['Uniswap V2'],207050.02662363017,Aurora
+Dexes,Sentre,,206043.144859355,Solana
+Yield,Moonpot,,205664.59,Multi-Chain
+Yield,Nexus Protocol,,205435.67853538296,Terra
+Yield,Black Whale,,205109.6491418114,Kujira
+Yield,GOGOcoin,,202552.250205,Polygon
+Dexes,KDSwap,,202379.09856350673,Kadena
+Dexes,ChickenSwap,['Uniswap V2'],201776.8589451199,Ethereum
+Dexes,Lydia,['Uniswap V2'],201449.25790098406,Avalanche
+Reserve Currency,Dogewhale,,200676.99265785847,Binance
+CDP,Unit Protocol,,199134.24475793706,Ethereum
+Uncollateralized Lending,dAMM Finance,['Compound'],199129.43353264075,Ethereum
+Lending,Unlockd,,199113.19062984164,Ethereum
+Derivatives,Minerva,['GMX'],198131.84512878046,Optimism
+Dexes,SheepDex,,197074.13889247747,Binance
+Prediction Market,LuckyChip,,196227.25790990857,Binance
+RWA Lending,Credix,,195320.06858240764,Solana
+CDP,PolyQuity,['Liquity'],195266.66313958424,Polygon
+Lending,MetaStreet,,193772.70077039424,Ethereum
+Dexes,StarSwap,['Uniswap V2'],192992.14782798613,Astar
+Lending,USDFI Lending,['Compound'],191660.36899301512,Binance
+Yield,Seashell,,190746.81857285413,Arbitrum
+Services,Aelin,,188855.95857559258,Multi-Chain
+Yield,Mole,,188538.00922502187,Multi-Chain
+Yield,FIAT DAO,,188347.28420439112,Ethereum
+Dexes,WannaSwap,['Uniswap V2'],187245.43173087417,Aurora
+Derivatives,Unlimited Network,,186270.027286,Arbitrum
+Dexes,GemSwap,,185497.96446771544,zkSync Era
+Dexes,WinerySwap,['Uniswap V2'],185463.85970402882,Binance
+Services,EnterDAO,,183734.79481598627,Ethereum
+Yield,Timewarp,,183474.30283931564,Multi-Chain
+RWA,Frigg.eco,,182461.87598491774,Ethereum
+Lending,Jet,,181588.42773430762,Solana
+Yield,StakeSteak,,181407.63896752454,Fantom
+Options,Lien,,181309.84440398563,Ethereum
+Synthetics,POISON FINANCE,,180171.28167749522,Multi-Chain
+Lending,Poof Cash,,179283.13156659662,Celo
+Yield,Cometa,,178802.89158447375,Algorand
+NFT Lending,Zharta,,178498.81337290452,Ethereum
+Lending,Toreus,['Aave'],178180.35651497333,Kava
+Services,Crunchy Network,,177568.091365,Tezos
+Dexes,SakePerp,,176275.4603967259,Multi-Chain
+Dexes,GemKeeper,['Uniswap V2'],175450.75630225573,Oasis
+Algo-Stables,Dopple Finance,,175130.02648453976,Multi-Chain
+Yield,DMD Finance,,174980.811079727,EOS
+Options,Zomma Protocol,,174221.124258,zkSync Era
+Dexes,Swipe,,172703.19897636323,Multi-Chain
+Dexes,Niob Finance,,171334.26131870062,Binance
+Dexes,WingSwap,['Uniswap V2'],169019.17228377383,Fantom
+Derivatives,Cypher,,168448.34091209478,Solana
+Dexes,PhotonSwap Finance,['Uniswap V2'],167065.9124465378,Multi-Chain
+Dexes,Velocimeter V1,['Solidly'],166819.72681046987,Canto
+Derivatives,Ideamarket,,164816.75532640453,Arbitrum
+Dexes,Shinobi,['Uniswap V2'],163690.306876037,Ubiq
+Dexes,Oracle Swap,['Uniswap V2'],162802.14291121735,Songbird
+Dexes,Snowflake Exchange,['Platypus Finance'],160668.72791109674,Multi-Chain
+Dexes,Tegro Finance,,159279.75572657064,TON
+Options,Rysk Finance,,159187.58794713556,Arbitrum
+Bridge,Nomad,,158067.25512714227,Multi-Chain
+Derivatives,Float,,157494.63584866692,Multi-Chain
+Lending,wefi,['Compound'],157417.52427105035,Polygon
+Dexes,PonytaSwap,,156841.8792022377,Rangers
+Indexes,Brokkr Finance,,156832.25108794906,Avalanche
+Dexes,SithSwap,,156553.19927425266,Starknet
+Dexes,SmartDEX,['Uniswap V2'],155697.80856239004,Polygon
+Yield,Augury Finance,,155590.35706973213,Polygon
+Cross Chain,Composable Finance,,155143.80014014163,Multi-Chain
+Dexes,BecoSwap,['Uniswap V2'],154455.92640324828,Kardia
+Dexes,Lighter,,154263.076141,Arbitrum
+Prediction Market,PRDT,,153610.4312765867,Multi-Chain
+Indexes,LSDx ETHx,,153265.40628926607,Ethereum
+Yield,Furucombo,,152150.941192,Polygon
+Dexes,Varen,['Uniswap V2'],152144.97005768286,Ethereum
+Dexes,OpenXswap,['Uniswap V2'],149583.0142728983,Optimism
+Lending,MahaLend,['AAVE'],147750.13674167887,Multi-Chain
+Indexes,Cook Finance,,145963.32121111662,Multi-Chain
+Dexes,WOWswap,,145925.2241570699,Multi-Chain
+Dexes,Yodeswap,['Uniswap V2'],145837.4481447685,Dogechain
+Farm,zkDX,['GMX'],143798.76182989,zkSync Era
+Derivatives,SynFutures V1,,141943.3561436725,Multi-Chain
+Yield,HFIone,,141808.49156493344,Heco
+Dexes,Avely Swap,,141445.37936607035,Zilliqa
+Yield Aggregator,PinkPea Finance,,140760.23407692323,Aurora
+Lending,BFly Finance,,140555.2485406838,Starcoin
+Dexes,SwapFish,['Uniswap V2'],139655.11942582493,Multi-Chain
+Lending,Aptin Finance,,139415.12845237678,Aptos
+Yield,OSWAP Token,,139365.60017141124,Obyte
+Yield,FoxSwap,,139056.41782545674,Harmony
+Dexes,Standard Protocol,['Uniswap V2'],138367.94053076988,Multi-Chain
+Dexes,Value Liquid,['Balancer'],138350.7298584815,Ethereum
+Prediction Market,BetHash,,137647.31234015716,EOS
+Lending,Trava Finance,,136716.25064729224,Multi-Chain
+Dexes,BlueMove DEX,,135487.3299122139,Sui
+Yield,BtnGroup,,132668.41,Secret
+NFT Marketplace,NFT20,,132634.36964711593,Multi-Chain
+Payments,Streamflow,,132025.6515215532,Multi-Chain
+Yield,Muuu Finance,['Convex Finance'],131899.17510564261,Astar
+Dexes,Huckleberry AMM,['Uniswap V2'],131473.9223550606,Multi-Chain
+Dexes,NewDex,,130632.49208272203,EOS
+Yield Aggregator,Y2R,,129743.49966965086,Canto
+CDP,TopShelf,['Liquity'],129433.46417120536,Multi-Chain
+Yield Aggregator,Epsylon Finance,['Yearn Finance'],128163.11804334875,Fantom
+Farm,Kava Boost,,127977.54489144412,Kava
+Yield,Olive Cash,,127729.44495139131,Multi-Chain
+Services,BNBMiner Finance,,127439.43878034737,Binance
+Dexes,ZipSwap,['Uniswap V2'],126292.89175974375,Multi-Chain
+Yield Aggregator,UNO farm,,126196.39774510353,Multi-Chain
+CDP,Nostra,,126022.56910850311,Starknet
+Dexes,Degen Haus,['Uniswap V2'],125425.75082342101,Fantom
+Uncollateralized Lending,Ribbon Lend,,125180.835036,Ethereum
+CDP,H2Odata,['Reflexer'],125100.0953965216,Ethereum
+Dexes,CafeSwap,['Uniswap V2'],125080.08371120635,Multi-Chain
+Dexes,Serum Swap,,124104.5987674868,Solana
+Dexes,MinMax Finance,['Saddle Finance'],123998.50040378765,IoTeX
+NFT Marketplace,Caviar V2,,122975.56762037714,Ethereum
+Dexes,FluxBeam,,122455.66061715342,Solana
+Dexes,Diffusion Finance,['Uniswap V2'],121091.4147518627,Evmos
+Prediction Market,SportBet,,120809.9303013605,EOS
+Lending,Rikkei Finance,['Compound'],119932.24568605804,Binance
+Lending,forlend,['Compound'],119043.50032682935,Findora
+Lending,RociFi V2,,119027.09576791593,Multi-Chain
+Liquid Staking,StakeEasy,,118452.61331747187,Multi-Chain
+Dexes,ZYXSwap,['Uniswap V2'],118165.57267407113,ZYX
+Derivatives,Y2K V2,,117799.85682718198,Arbitrum
+Indexes,Babylon Finance,,117697.03141536184,Ethereum
+Dexes,Paint Swap,['Uniswap V2'],117668.08887514177,Fantom
+Liquid Staking,SteakBank Finance,,117265.3102131952,Binance
+Dexes,Muffin,['Uniswap V2'],116923.36774403718,Ethereum
+Yield,BambooDeFi,['Uniswap V2'],116368.7681264529,Multi-Chain
+Dexes,SpicySwap,,115624.43600288949,Tezos
+Dexes,Alcor Exchange,,115439.12641219675,Multi-Chain
+Derivatives,DAMX,['GMX'],115290.62213756144,Fantom
+Yield Aggregator,Nord Finance,,115216.11179809185,Multi-Chain
+CDP,NUON Finance,,114939.15147790212,Arbitrum
+Dexes,TTswap,['Uniswap V2'],114796.37904433225,ThunderCore
+Dexes,ProtossDex,['Uniswap V2'],114354.4177400602,Starknet
+Dexes,HunnySwap,['Uniswap V2'],114186.11328846872,Avalanche
+Services,SuperFarm,,114148.77366212754,Ethereum
+Dexes,Firebird,['Uniswap V2'],113232.76788068673,Polygon
+Dexes,MiniSwap,['Uniswap V2'],112761.2040863861,Ethereum
+CDP,Argo,,112485.04860664553,Aptos
+Lending,CashCow Finance,['Compound'],112075.49023681121,Binance
+Dexes,Bomb Finance,['SpookySwap'],112017.04939440008,Fantom
+Derivatives,MyMetaTrader,['Gains Network'],111402.977902,Arbitrum
+Derivatives,CompliFi,,111258.71037566065,Multi-Chain
+Lending,Commodo,,110829.85293338206,Comdex
+Services,PEAKDEFI,,110778.026103,Multi-Chain
+Yield Aggregator,MM Optimizer Polygon,['Bunny'],109912.12814821018,Polygon
+Dexes,Rose,,109253.84322385465,Aurora
+Derivatives,Spin Perps,,108084.374817,Near
+Dexes,Tarina,['Solidly'],106844.94214828948,Avalanche
+Yield,Doki Doki Finance,,106658.54452150174,Multi-Chain
+Yield Aggregator,Cells Finance,,106354.47942851165,Multi-Chain
+Options,Grappa Finance,,105638.70293069175,Ethereum
+Yield,Tetu Swap,['Uniswap V2'],105542.29596574225,Polygon
+Yield,PolyCub,,105205.10002603191,Polygon
+Farm,veDAO,['Uniswap V2'],104890.00430902644,Fantom
+Services,CALC,,104861.87325958227,Kujira
+Yield Aggregator,Matrix Farm,['Yearn Finance'],104831.96075174253,Multi-Chain
+Leveraged Farming,Aperture Finance,,104220.15758162145,Multi-Chain
+Yield,Manhattan,,104143.28477567005,Multi-Chain
+Cross Chain,Swim Protocol,,103728.75262498602,Solana
+Yield,Polywhale Finance,,103546.94045125166,Polygon
+Dexes,ADAX Pro,,103388.0,Cardano
+Dexes,Complus Network,['Uniswap V2'],102737.45586637798,Multi-Chain
+Derivatives,RubyDex,,102293.5418181,Arbitrum
+Dexes,UniFi,,102162.0216247819,Multi-Chain
+Indexes,Paladin Warlord,,101692.17972894113,Ethereum
+Yield Aggregator,Optyfi,,100834.87310588523,Multi-Chain
+Algo-Stables,Tomb,,100323.87111568791,Fantom
+Dexes,Waka Finance,,100204.15899135578,Fantom
+Indexes,Kassandra DAO,,100132.24532350582,Avalanche
+Dexes,AnchorSwap,,99578.44084871496,Binance
+Yield Aggregator,YFII,['Yearn Finance'],99307.87394787329,Ethereum
+Derivatives,GoodEntry,,98924.95239438393,Arbitrum
+Farm,SteakHut,,98644.53741166192,Avalanche
+Launchpad,Thorstarter,,97982.073697334,Ethereum
+Services,Hectagon,,97649.01626289416,Binance
+Lending,Roe Finance,['AAVE'],97362.54129469367,Multi-Chain
+Dexes,Sterling Finance,['Solidly'],96856.73260516858,Arbitrum
+Derivatives,Cranium Exchange,['GMX'],96326.80135828786,Fantom
+Dexes,Zappy,['Uniswap V2'],95996.82696563979,Telos
+Yield Aggregator,StoneDefi,['Yearn Finance'],95549.31335283257,Multi-Chain
+Yield,Domani Protocol,,95487.81564709335,Multi-Chain
+Derivatives,DPEX,['GMX'],95227.74268936603,Polygon
+Dexes,Darkness,['Balancer'],94288.19030507063,Cronos
+Dexes,0.exchange,['Uniswap V2'],93983.33398288071,Multi-Chain
+Indexes,Polly Finance,,93366.80544156645,Polygon
+Yield,Crystl Finance,['Uniswap V2'],92655.33645846925,Multi-Chain
+Lending,DebtDAO,,92053.0,Ethereum
+Yield,Animal Farm V2,,90685.85443812792,Binance
+Dexes,ButterSwap,['Uniswap V2'],90516.2208667919,Multi-Chain
+Dexes,Solarflare,['Uniswap V2'],89716.99429254918,Moonbeam
+Yield,Robo-Vault,,88968.49215863095,Multi-Chain
+Dexes,Excalibur,['Uniswap V2'],88780.27342319561,Fantom
+Options,Metavault Binary Options,,88576.950914,Polygon
+Indexes,DeHive,,88549.71455353405,Multi-Chain
+Dexes,Capricorn Finance,['Uniswap V2'],88361.96847157461,Cube
+Dexes,Crow Finance,['Uniswap V2'],88267.24416501488,Cronos
+Options,Oddz,,88234.33638895048,Multi-Chain
+Lending,Pizza,,87923.302,EOS
+Lending,Euler,,87557.16417999197,Ethereum
+Dexes,Spin Spot,,87545.94878546518,Near
+Indexes,Solrise Finance,,86937.9374627379,Solana
+Dexes,Baguette,['Uniswap V2'],86680.28075422917,Avalanche
+Bridge,CENNZnet Bridge,,86412.38006917434,Ethereum
+Dexes,YetiSwap,['Uniswap V2'],85827.73905970101,Avalanche
+Dexes,Zencha Finance,,85795.63306239937,Boba
+Yield,ApeRocket,,85510.89451902446,Binance
+Dexes,LFGSwap EthereumPoW,['Uniswap V2'],85374.70085526303,EthereumPoW
+Dexes,Foodcourt,,84256.25979432961,Multi-Chain
+Lending,Teller,,83287.43990533242,Multi-Chain
+Yield,Ester Finance,,82917.55949032566,Fantom
+Dexes,Interest Protocol-SUI,,82720.43360848934,Sui
+Services,Suterusu,,81684.39195286676,Multi-Chain
+Yield,Viva,,80699.38345769566,Vite
+Reserve Currency,TempleDAO,,79877.25289947253,Ethereum
+Yield,Vovo Finance,,79720.74449422468,Arbitrum
+Dexes,QuipuSwap V3,,78844.08759467052,Tezos
+Dexes,MemeDex,['Uniswap V2'],77923.50380934295,Conflux
+Dexes,ViperSwap,['Uniswap V2'],77519.43371803626,Harmony
+Options,FODL Finance,,77272.25119524644,Multi-Chain
+Yield,Oh Finance,,76156.00280695135,Multi-Chain
+Yield Aggregator,Magik Farm,['Beefy'],76131.085630156,Multi-Chain
+Liquid Staking,Lockless Protocol,,76079.37855486541,Multi-Chain
+Yield Aggregator,BT.Finance,,73186.45,Ethereum
+Launchpad,Juicebox V2,,73060.19331647614,Ethereum
+Yield,Orion Money,,72936.1737962967,Ethereum
+RWA,ELYFI,,71887.9863523441,Multi-Chain
+Dexes,Loop Finance,,70845.33706979231,Multi-Chain
+Dexes,Starmaker,['Uniswap V2'],70550.05663286976,zkSync Era
+Dexes,EvmoSwap,['Uniswap V2'],70452.53409919256,Evmos
+Yield,ETHA Lend,,70311.64053057303,Multi-Chain
+Dexes,Spoon Exchange,['Solidly'],70167.76322350859,CORE
+Algo-Stables,OrderNChaos,,69790.67389249253,Multi-Chain
+Dexes,KwikSwap,['Uniswap V2'],69427.30694403763,Multi-Chain
+Options,Auctus,,69309.68797629287,Ethereum
+Dexes,PowerSwap,['Uniswap V2'],69285.72469534734,EthereumPoW
+Services,Ubiquity DAO,,69177.4243700431,Ethereum
+Farm,ArbiNYAN,,68574.72144506159,Arbitrum
+Synthetics,Domination Finance,,68441.104938,Multi-Chain
+Services,SandClock,,68306.00171015837,Ethereum
+Dexes,BaySwap,,67969.94288044445,Sui
+Dexes,MochiSwap,['Uniswap V2'],67047.14101363716,Multi-Chain
+Dexes,Obric,,66766.61578478076,Aptos
+Dexes,BoneSwap Bonerium,['Uniswap V2'],66738.73867859643,Bone
+CDP,Babena,,66404.629678767,Kadena
+Dexes,StableKoi,,66361.74525778972,Multi-Chain
+Dexes,Potluck Protocol,['Goose Finance'],66228.87374059275,Fantom
+Yield,CougarSwap,,65848.24891015074,Multi-Chain
+Yield,TreeDefi,,65774.60894999419,Binance
+Dexes,MM Stableswap Polygon,,64804.08021558667,Polygon
+CDP,Defrost,,64788.058279008335,Avalanche
+Dexes,Forge SX Trade,['Uniswap V2'],64503.45726170015,Arbitrum
+Dexes,Satin Exchange,['Solidly'],63900.76534966733,Polygon
+Lending,KLend,['Compound'],63604.328131111615,Multi-Chain
+Options Vault,Typus Finance,,63515.927194001655,Sui
+Farm,Parrot Defi,['Goose Finance'],63101.31657545896,Multi-Chain
+Dexes,PheasantSwap,,62304.07635892236,ENULS
+Algo-Stables,Oin Finance,,62302.19443624113,Multi-Chain
+Dexes,RskSwap,['Uniswap V2'],61610.83976507766,RSK
+Liquid Staking,Amulet Liquidity Staking,,61312.670000000006,Solana
+Yield,HaloDAO,,61229.98695772633,Multi-Chain
+Indexes,Picnic,,60984.9573084629,Polygon
+Yield,DungeonSwap,,60954.679715940605,Binance
+Algo-Stables,Finext Finance,,60631.75842271639,Arbitrum
+Dexes,UniTrade,,60340.05766048984,Ethereum
+Derivatives,OmniDex Perpetuals,['GMX'],60231.54432828181,Telos
+Options,Shield,,60015.147457212195,Binance
+Services,EverRise,,59472.482778999634,Multi-Chain
+Dexes,SumSwap,['Uniswap V2'],59416.894712655485,Ethereum
+Lending,Aave Arc,,59110.287735927406,Ethereum
+Yield,Matter Defi,,59073.938265000004,Tezos
+Liquidity manager,Hedgehog,,59052.78700661035,Ethereum
+Gaming,Luchadores,,58668.90205815956,Polygon
+Yield,ADAO,,58581.038631062445,Astar
+Synthetics,Mobius Finance,,58559.441388616964,Polygon
+Dexes,CGX Finance,['Uniswap V2'],58535.74027417839,Cronos
+Dexes,UniWswap AMM,['Uniswap V2'],58259.34969649306,EthereumPoW
+Yield,INK Protocol,,58063.17696281621,Terra
+Derivatives,EMDX,,57796.335628,Avalanche
+Dexes,Invariant,,56693.284100184996,Solana
+Synthetics,Forge SX Ovens,,56470.843484,Arbitrum
+Yield Aggregator,Autoearn Finance,,56196.22977081829,Arbitrum
+Yield,Frost Finance,,56112.24298645151,Avalanche
+Yield,PolygonFarm Finance,,55219.787876874114,Polygon
+Yield,Garbi Protocol,,54965.151664151665,Arbitrum
+Yield,Arrow,,54329.07293902757,Solana
+Algo-Stables,Tulip,['Tomb Finance'],53655.33598541665,Oasis
+Yield,Hunny Finance,,53178.9298446003,Binance
+Options,Phoenix Finance,,52821.34,Multi-Chain
+Dexes,AUX Exchange,,52192.0083041968,Aptos
+Yield Aggregator,CGO Finance,,52154.320577086706,Cronos
+Yield,Yieldly,,52113.500071973656,Algorand
+Bridge,Glitter Finance,,52104.681761436994,Multi-Chain
+CDP,MahaDAO Arth,['Liquity'],51485.05351558609,Multi-Chain
+Derivatives,Unbound,,51361.117374463254,Multi-Chain
+Insurance,Bright Union,,51090.57049190114,Ethereum
+Dexes,HakuSwap,['Uniswap V2'],51011.75251611801,Avalanche
+Dexes,KACO Finance,['Uniswap V2'],50326.735003339156,Multi-Chain
+Liquid Staking,STRX Finance,,50148.21071542906,Tron
+Lending,Timeswap V1,,50100.273824684205,Polygon
+Liquidity manager,Metavisor,,49961.0550397613,Multi-Chain
+CDP,Teddy Cash,['Liquity'],49517.36,Avalanche
+Dexes,LatteSwap,['Uniswap V2'],49507.61968187362,Binance
+Dexes,Primitive,,49366.30309394433,Ethereum
+Options,Twindex,['Uniswap V2'],48904.34555892841,Binance
+Yield,Pop Town,,48481.87228113284,Ethereum
+NFT Marketplace,Stargaze,,48383.741304325005,Stargaze
+Yield,Governor DAO,,48201.757528674236,Ethereum
+Derivatives,SpaceDex,['GMX'],48085.151154507126,Multi-Chain
+Yield,Magic Land,,48018.44522071222,Multi-Chain
+NFT Lending,Llamalend,,47964.357558010124,Ethereum
+Yield Aggregator,Aladdin DAO,['Yearn Finance'],47826.697120337936,Ethereum
+Dexes,ZooCoin,['Uniswap V2'],47527.103655060964,Fantom
+Lending,Huckleberry Lending,['Compound'],47327.34906281265,Moonriver
+Liquidity manager,Lixir Finance,,47106.53784665086,Ethereum
+Dexes,SeaDex,['Uniswap V2'],46859.1066051053,Moonriver
+Dexes,ValleySwap,,46703.25186628937,Oasis
+Dexes,Fathom Dex,['Uniswap V2'],46570.585152768086,XDC
+Dexes,KriyaDEX,,46555.28658602476,Sui
+Lending,Fringe,,46219.910968279,Ethereum
+Dexes,Forteswap,['Uniswap V2'],45520.387792394074,Canto
+Dexes,Jexchange,,45436.759376740076,Elrond
+Dexes,EmiSwap,['Uniswap V2'],45416.939161103,Multi-Chain
+Dexes,Kebab Finance,['Uniswap V2'],45379.962605934394,Binance
+Dexes,Aptoswap,,45296.71370907341,Aptos
+Dexes,BullionFX,,45039.091252,Ethereum
+Yield,Thoreum Finance,,44836.73931259825,Binance
+Dexes,DinoSwap,,44676.811743029386,Polygon
+Dexes,BaptSwap,['Uniswap V2'],44429.42885721124,Aptos
+Yield,Bagels Finance,,44323.4032626121,Binance
+Yield,Singular Farm,,44110.162616142145,Multi-Chain
+Indexes,Cryptex V2,,44098.246349735644,Arbitrum
+Dexes,onAVAX,['Uniswap V2'],43504.14094614526,Avalanche
+Dexes,Symmetric,['Balancer'],43387.69271916268,Multi-Chain
+Lending,Warp Protocol,,42805.39776257725,Ethereum
+Synthetics,Duet Protocol,,42669.30649725136,Multi-Chain
+Yield,Elephant Money,,42397.64050992044,Binance
+Dexes,VeniceSwap,['Uniswap V2'],41560.32719500711,Findora
+Dexes,Vortex Protocol,,41363.33436065036,Tezos
+Dexes,Morpheus Swap,['Uniswap V2'],41209.420440329995,Fantom
+Dexes,AdaSwap,,41191.27474627682,Milkomeda
+Privacy,ShadeCash,['Tornado Cash'],41013.401607,Fantom
+Dexes,Cone,['Solidly'],41001.357513499126,Binance
+Dexes,AmpleSwap,['Uniswap V2'],40980.99452243611,Binance
+Lending,BondAppetit,,40532.54,Ethereum
+Derivatives,Numoen,,40531.175374900326,Multi-Chain
+Dexes,CapitalDEX,['Uniswap V2'],40503.45331750368,Ethereum
+Dexes,Redemption,['Uniswap V2'],40412.66024146226,Fantom
+Dexes,Ladex Exchange,['Uniswap V2'],40234.62007255778,Lachain
+Reserve Currency,Cesta Finance,,40039.43458085163,Avalanche
+Yield,MFinance,,39665.977387465944,Ethereum
+Liquid Staking,zLot,,39636.13697884768,Ethereum
+Dexes,PolkaEx,['Uniswap V2'],39018.79886718575,Multi-Chain
+Payments,Roketo,,38965.02189154702,Near
+Yield,xWeowns,,38924.476017930494,Lachain
+Yield,Radial,['Uniswap V2'],38617.5038860886,Fantom
+Yield,Tesseract,['Yearn Finance'],38522.36760402943,Polygon
+CDP,Fluity,['Liquity'],37984.00263582736,Binance
+Dexes,Pls2e,['Uniswap V2'],37901.79640040365,Binance
+Dexes,HSwap,['Uniswap V2'],37255.093702453545,Heco
+Dexes,RocketSwap,['Uniswap V2'],37064.48645638985,Lamden
+Yield,Goober,,37060.83423054551,Ethereum
+Yield,Vaulty Finance,['Harvest Finance'],36944.87160317005,Binance
+Lending,Agora,['Compound'],36750.604076852076,Metis
+Dexes,DuckyDeFi,['Uniswap V2'],36637.98174483696,Cronos
+Yield,Flame DeFi,,36495.706503745554,Tezos
+Lending,Paribus,['Compound'],36354.036415233306,Arbitrum
+Farm,SpectreFi,['Goose Finance'],36226.126226834655,Fantom
+Dexes,DuneSwap,['Uniswap V2'],36181.77839459952,Oasis
+Services,CyberTime,,35960.40501152483,Binance
+Dexes,CantoSwap,['Uniswap V2'],35728.457052928505,Canto
+Yield,ACoconut,,35568.37329284649,Multi-Chain
+Lending,Multiplier,,35337.80751402099,Multi-Chain
+Dexes,MeowSwapFi,,34923.81141836122,Cardano
+Dexes,SonicSwap,['Uniswap V2'],34679.60748721213,Harmony
+Options,DeltaTheta,,34635.03368083372,Multi-Chain
+Farm,UniWswap UNIA Farms,,34479.875801643815,Multi-Chain
+Dexes,Holdr,['Balancer'],34305.33622326665,Aurora
+Dexes,Subzero ZSwap,['Uniswap V2'],33990.31924853063,Avalanche
+Dexes,VAX,['Swapr'],33817.93815850192,MultiVAC
+Dexes,Hydradex V2,['Uniswap V2'],33359.84313214974,Hydra
+Dexes,CyborgSwap,['Uniswap V2'],33346.364230255145,Cronos
+Yield,Solyard,,33285.69032967152,Solana
+Dexes,Dexilla,,33241.6497915,Multi-Chain
+Farm,Animal Farm V1,['Uniswap V2'],33217.09074615747,Binance
+Dexes,Behodler,,33198.71468984158,Ethereum
+Algo-Stables,Spice Trade,,33017.52508165673,Multi-Chain
+CDP,Stabilize,['Liquity'],32900.4971593386,Avalanche
+Insurance,Amulet Protocol,,32862.72,Solana
+Derivatives,BFX Finance,,32788.35593350498,Binance
+Dexes,Gravis Finance,['Uniswap V2'],32748.94329730686,Multi-Chain
+NFT Lending,MMO Finance,,32669.518162115764,Ethereum
+Farm,Trick or Treat Farm,['Goose Finance'],32561.288810550166,Fantom
+Yield Aggregator,BlueBit,,32166.29541457992,Aurora
+Lending,Oxygen,,31982.05908927837,Solana
+Dexes,AnimeSwap,,31678.69292363037,Multi-Chain
+Lending,Qubit,['Compound'],31584.161779430582,Multi-Chain
+Dexes,ThorusFi,['Uniswap V2'],31384.43342622101,Multi-Chain
+Privacy,Typhoon Cash,['Tornado Cash'],31298.02,Ethereum
+Yield,YSL.IO,,30844.211341567287,Binance
+Yield Aggregator,Lemuria Finance,['Beefy'],30797.9,Milkomeda
+Dexes,Clever Protocol,['Uniswap V2'],30633.791242255862,Dogechain
+Lending,Atlantis Loans,['Compound'],30509.47948267199,Multi-Chain
+Lending,Augmented Finance,,30412.95098868151,Multi-Chain
+Yield,Ottopia,,30407.988229254606,Polygon
+Dexes,OrbitalSwap,['Uniswap V2'],30077.688722824765,Binance
+Lending,RociFi V1,,29755.780416161822,Polygon
+Services,Orbit,,29606.492225380724,Polygon
+Yield,PearZap,,29590.350053285783,Multi-Chain
+Yield,Waterfall BSC,,29248.918171599915,Multi-Chain
+Liquidity manager,Steer Protocol,,29204.60026023121,Multi-Chain
+Dexes,PolyDEX-Cryption Network,['Uniswap V2'],29028.7064570663,Polygon
+Dexes,FairySwap V2,['Uniswap V2'],28704.068903053892,Findora
+Yield,White Whale,,28606.09398761666,Terra
+Yield Aggregator,Parallax,,27746.619893041956,Arbitrum
+Reserve Currency,GTON Capital,,27606.594981915485,Fantom
+Dexes,Hpdex,['Uniswap V2'],27301.13729437203,HPB
+Derivatives,Covo V1,['GMX'],27188.72313493723,Polygon
+Algo-Stables,XUSD Money,['Frax'],26876.596801234075,Ethereum
+Yield,Diamond Protocol,,26740.956804119218,Multi-Chain
+Lending,Coslend,['Compound'],26509.989200201355,Evmos
+Dexes,FairySwap V1,['Uniswap V2'],26500.80497864122,Findora
+Dexes,CobraSwap,['Uniswap V2'],25789.96550853082,Binance
+Dexes,LeetSwap,['Uniswap V2'],25732.84220884428,Multi-Chain
+Yield Aggregator,Canary,['Uniswap V2'],25479.515272373705,Avalanche
+Services,Rigoblock,,25467.3034263824,Multi-Chain
+Yield,Dapp Account DAO,,25401.46525624,EOS
+Dexes,Surfswap Classic,['Uniswap V2'],25382.56315110278,Kava
+Lending,DAOLama,,25350.202363481258,TON
+Dexes,LeonicornSwap,['Uniswap V2'],25304.5213219857,Binance
+Lending,Wild Credit,,24639.35815165958,Ethereum
+Yield Aggregator,Cycle Finance,['Yearn Finance'],24472.395931829575,Avalanche
+Dexes,MacaronSwap,,24401.350398705516,Multi-Chain
+Farm,Dark Matter,['Goose Finance'],24272.53716237569,Fantom
+Services,YFDAI,,23632.954402076335,Ethereum
+Yield,Liquid Bolt,,23466.718806776684,Multi-Chain
+Yield Aggregator,Mushrooms Finance,['Yearn Finance'],23344.869688386265,Multi-Chain
+Lending,Hodltree,,23120.664882931298,Multi-Chain
+Privacy,Sherpa Cash,,23107.2,Avalanche
+Yield Aggregator,LuxsFi,,22941.365241779553,Multi-Chain
+Lending,OrcaDAO,,22377.18384590052,Avalanche
+Yield Aggregator,Electrik Finance,['Beefy'],22090.717936936486,Klaytn
+Liquidity manager,Universe Finance,,21795.61059929769,Multi-Chain
+Dexes,MM Stableswap,['Curve'],21764.348418513495,Cronos
+Dexes,Cykura,,21737.117930258202,Solana
+Dexes,Tangent,,21715.86063428576,Hedera
+Dexes,Derify Protocol,,21649.877913162913,Binance
+Dexes,Dexter Exchange,,21313.758517461225,Tezos
+Farm,Panda Chef,,21257.55962080355,Binance
+Lending,OCP Finance,['Compound'],21176.915274194216,Binance
+Dexes,SwapperChan,['Uniswap V2'],21174.06467076536,Boba
+Gaming,MiningTycoon,,21126.4764738795,Binance
+Dexes,Yapeswap,['Uniswap V2'],21057.16407365546,Ethereum
+Dexes,Astar Exchange V2,['Uniswap V2'],21007.067561252978,Astar
+Dexes,PonySwap,['Uniswap V2'],20951.529467182674,Arbitrum
+Dexes,KokomoSwap,['Uniswap V2'],20883.824402728795,Binance
+Dexes,CoFiX,,20818.827302994327,Ethereum
+Dexes,1Swap,['Saddle Finance'],20744.328587431723,Moonriver
+Yield,BeefStake,['Viva'],20588.127250931106,Vite
+Dexes,Tropical Finance,['Uniswap V2'],20444.238161699588,smartBCH
+Lending,Vee Finance,['Compound'],19954.415734923037,Multi-Chain
+Yield,2Pi Network,,19918.15322580705,Multi-Chain
+Dexes,SkullSwap V3,['Algebra DEX'],19458.18835021429,Fantom
+Dexes,WhaleSwap,['Uniswap V2'],19443.56739118329,Multi-Chain
+Dexes,LootSwap,['Uniswap V2'],19407.534992989986,Harmony
+Dexes,Swapline,['Trader Joe DEX'],19279.81933875524,Multi-Chain
+Synthetics,Klondike Finance,,19203.93936120884,Ethereum
+Prediction Market,Debets,,18991.67286517297,Multi-Chain
+CDP,Piggy,['Liquity'],18819.180466213198,Binance
+Dexes,zkMoonSwap,['Uniswap V2'],18767.25100043106,Polygon zkEVM
+Lending,CHFRY Finance,,18687.13400473073,Ethereum
+Dexes,RobiniaSwap,,18668.91804965289,Binance
+Dexes,Frogge.Finance,['Uniswap V2'],18543.456412634936,EOS EVM
+Derivatives,Vanilla,,18516.776199402862,Ethereum
+Dexes,Alium Swap,['Uniswap V2'],18241.74937516492,Binance
+Indexes,Investin,,18216.69498725666,Solana
+Dexes,Cronus Finance,['Uniswap V2'],18186.527600268128,Evmos
+Yield,Genesys,,18181.354788077784,Fantom
+Yield,CashCow Protocol,,18011.4695564632,Binance
+Yield,BooFinance,,17795.090592402772,Avalanche
+Dexes,PartySwap,['Uniswap V2'],17749.293989120048,Avalanche
+Yield,SleepEarn Finance,,17493.519999999997,Kardia
+Dexes,Fuzz Finance,['Uniswap V2'],17485.792745349252,Harmony
+Indexes,Etherberry Finance,['Agility LSD'],17468.399134107596,Arbitrum
+Yield Aggregator,Dex Finance,,17462.2686800638,Binance
+Derivatives,Predy V2,,17289.265663031998,Arbitrum
+Derivatives,FXDX,,17234.034724127243,Optimism
+Dexes,JioSwap,['Saddle Finance'],16956.161299501764,Multi-Chain
+Dexes,MyTrade,['Uniswap V2'],16897.548181077378,Multi-Chain
+Yield,Stacker Ventures,,16818.053330353225,Ethereum
+Indexes,Axia Protocol,,16770.34002973536,Multi-Chain
+Yield Aggregator,Auto Core,,16602.29393633607,CORE
+Algo-Stables,Blindex,['Frax'],16570.919544537825,RSK
+Yield Aggregator,Bank of Chain,,16446.580065538044,Ethereum
+Yield,Kimberlite,,16417.659411511075,Multi-Chain
+Lending,Everlend,,16312.705797354249,Solana
+Dexes,Symphony Finance,,16300.483786834506,Multi-Chain
+Dexes,GoSwap,['Uniswap V2'],16102.163537134502,GoChain
+Dexes,Wojak Finance,['Uniswap V2'],15883.591368637188,Dogechain
+Dexes,FlashLiquidity,['Uniswap V2'],15840.468735241611,Multi-Chain
+Dexes,YieldFields,['Uniswap V2'],15795.085315785522,Binance
+Yield,Croblanc,,15746.408776746779,Cronos
+Dexes,FreeRiver,['Uniswap V2'],15614.03396336031,Moonriver
+Dexes,TiFi,['Uniswap V2'],15598.352889412603,Binance
+Yield,Structured LSD,,15263.510559508824,Ethereum
+Algo-Stables,Pegasusdollar,['Tomb Finance'],14902.486955602399,Cronos
+Dexes,SafeSwap,['Uniswap V2'],14875.424754490305,Multi-Chain
+Lending,Brainiac Finance,['Compound'],14730.982240662113,GodwokenV1
+CDP,LaDAO Xocolatl,,14528.312482249803,Multi-Chain
+Yield,PolyShield,,14523.402669648056,Polygon
+Yield,Zabu Finance,['Autofarm'],14519.076304696042,Avalanche
+Dexes,Phoenix DEX,,14445.135398234861,Terra2
+Dexes,Kinesis Labs,['Saddle Finance'],14444.264656999643,Evmos
+Dexes,Sifchain,,14439.308268222772,Sifchain
+Yield,Lachain Yield Market,,14349.241368599998,Lachain
+Dexes,ArbiSwap,['Uniswap V2'],14180.16736683105,Arbitrum
+Dexes,BossSwap,['Uniswap V2'],14167.989021293573,Harmony
+Dexes,Sharky Swap,['Uniswap V2'],14081.663571629171,Arbitrum
+Dexes,Qilin,,14033.188623,Ethereum
+Dexes,CorgiSwap,['Uniswap V2'],13841.571650314507,Binance
+Yield,Newland,,13787.59795190765,Multi-Chain
+Dexes,Kuu Finance,,13786.739126171986,Avalanche
+Dexes,Moonbase Alpha,['Uniswap V2'],13698.240340069393,Arbitrum
+Yield,Sharpe Magnum,,13690.544888486498,Ethereum
+Yield,Gaj Finance,,13614.319198795845,Multi-Chain
+Dexes,Deflex,,13539.90328563852,Algorand
+Dexes,HoustonSwap,,13497.140342285391,Aptos
+RWA,NAOS Finance,,13385.783323120604,Multi-Chain
+Dexes,SugarSwap,['Uniswap V2'],13263.836934371486,Arbitrum
+Liquid Staking,aSOL,,13206.56924470103,Solana
+Dexes,OpenSwap,['Uniswap V2'],12899.231224986768,Harmony
+Farm,LSDx Farm,,12511.49559414153,Ethereum
+Prediction Market,Polkamarkets,,12478.358837867961,Multi-Chain
+Algo-Stables,OpenDAO,['Compound'],12475.764992083428,Multi-Chain
+Dexes,SMBSwap V3,['Uniswap V3'],12215.570925358468,Binance
+Synthetics,SynthEx,,12162.718356197178,Arbitrum
+Indexes,Factor,,12126.030152063875,Arbitrum
+Yield,Farmtom,,12003.551125253127,Fantom
+Dexes,Anedak,,11997.707324618581,Kadena
+Dexes,Alligator,['Uniswap V2'],11937.734949990609,Avalanche
+Derivatives,Chaotic Finance,,11928.930473563558,Moonriver
+Dexes,Versa Finance,['Uniswap V2'],11824.026021027761,Astar
+Yield,Squid Stake,['Uniswap V2'],11812.93891939353,Binance
+Farm,Koala Defi,['Goose Finance'],11756.881255215318,Multi-Chain
+Dexes,Shiba Fantom,['Uniswap V2'],11731.15967867811,Fantom
+Dexes,PoWSwap,['Uniswap V2'],11719.897350107967,EthereumPoW
+Algo-Stables,Creditum,,11577.046139708462,Fantom
+Dexes,MonoX,,11539.089967636299,Multi-Chain
+Dexes,KryptoDex,['Uniswap V2'],11510.8226420867,Cronos
+Dexes,Future Swap,,11441.90648088067,Findora
+Yield Aggregator,Draco Force,,11434.121034006494,Fantom
+Cross Chain,Spherium,,11358.046671675354,Multi-Chain
+Dexes,ArenaSwap,,11285.75089782167,Binance
+Dexes,E3,['TraderJoe'],11109.536610701296,Fantom
+Yield,Umami Finance,,11049.435147,Arbitrum
+Yield,Polytrade,,10975.659287,Polygon
+Dexes,ETCswap,['Uniswap V2'],10877.35691767323,EthereumClassic
+Dexes,DDDX,,10876.45871366793,Binance
+Dexes,SWAPP,['Uniswap V2'],10826.029216688066,Cronos
+Dexes,BarnSwap,['Uniswap V2'],10752.620472149025,MUUCHAIN
+Yield,StormSwap,,10737.50185417312,Multi-Chain
+Farm,Verified Credits,,10723.398961500001,Kava
+Dexes,BeGlobal Finance,,10695.7598406841,Binance
+Yield,Defi Yield Protocol,,10695.163597010582,Multi-Chain
+Yield,The Grand Banks,,10689.471193556028,Multi-Chain
+Yield,Raven,,10615.192064045495,Fantom
+Yield,Flashstake OLD,['Uniswap V2'],10549.588537098196,Ethereum
+Dexes,DolphinSwap,,10526.753431488061,EOS
+Dexes,Mercurity,,10396.991923747999,Ethereum
+Derivatives,ShrikePerps,['GMX'],10357.014471362216,Polygon zkEVM
+Dexes,Shibance,['Uniswap V2'],10309.24956434096,Multi-Chain
+Yield,Eternal Finance,,10276.693171812649,Aptos
+Dexes,StarkEx,,10109.670608698452,Starknet
+Dexes,1BCH,['Uniswap V2'],10096.96653221518,smartBCH
+Indexes,BiShares,['Indexed Finance'],10042.758554430906,Multi-Chain
+Yield,Banksy Farm,,9937.295822302556,Avalanche
+Dexes,GaloSwap,,9907.900318383632,zkSync Era
+Farm,FuryLabs Finance,['Uniswap V2'],9886.808311836077,Fantom
+Dexes,Neuronswap,['Uniswap V2'],9826.240275839173,Klaytn
+Yield,Tempus Finance,,9766.620490414862,Multi-Chain
+Lending,LendHub,['Compound'],9717.538040532316,Heco
+Yield Aggregator,Spiral Finance,,9674.736130033822,Fantom
+Yield,Sapphire Defi,,9669.653846153704,Fantom
+Synthetics,Symblox,,9444.466285315506,Velas
+Yield,BorgSwap,,9434.305095011337,Multi-Chain
+CDP,Aquarius,['Liquity'],9401.905879388392,Fantom
+Dexes,Hades Swap,['Uniswap V2'],9376.441992593129,Polis
+Yield,Scallop,,9356.55774756329,Multi-Chain
+Services,Powaa Protocol,,9252.457117429554,Ethereum
+CDP,Milkomeda-C1 Djed,,9170.124500877662,Milkomeda
+Dexes,Embr Finance,['Balancer'],9099.145846019623,Avalanche
+Yield,Billion Happiness,,8969.427448550377,Multi-Chain
+Dexes,Drachma,['Shell Protocol'],8913.302703969764,Metis
+Dexes,Doge Shrek,['Uniswap V2'],8893.854640412403,Dogechain
+Dexes,ZenithSwap,['Uniswap V2'],8885.917940968448,Arbitrum
+Yield,Skeleton Finance,,8770.490243353008,Fantom
+Dexes,Swaprum,,8763.757786371465,Arbitrum
+Prediction Market,Prophet,,8749.869741747458,Obyte
+Lending,Edge Protocol,,8711.931479314193,Terra
+Yield,OliveDAO,,8542.109720273691,Polygon
+Yield,PolyYeld Finance,,8538.393129008597,Polygon
+Farm,OnyxDAO,,8211.33337307394,Arbitrum
+Yield Aggregator,FairFi,,8207.174775799998,Multi-Chain
+Dexes,BSCStation,,8153.16818358488,Binance
+Lending,EcoDeFi,['Compound'],8124.736114803286,Binance
+Algo-Stables,SaharaDAO,['Fantasm'],7998.934076466509,Cronos
+Yield,DAOventures,,7889.277882487597,Ethereum
+Yield,ArbiRise Finance,,7845.162542,Arbitrum
+Yield,Cyber Dog,,7823.1735897858625,Cronos
+Yield,MarshmallowDeFi,,7784.663990869354,Binance
+Dexes,Energyfi,['Uniswap V2'],7621.238321382055,Moonbeam
+Dexes,ScarySwap,['Uniswap V2'],7602.606539942057,Fantom
+Yield,Brinc Finance,,7597.5411910913535,Arbitrum
+Lending,Market,['Compound'],7541.583204011084,Multi-Chain
+Algo-Stables,Coffin Finance,,7436.020692455031,Fantom
+Yield,GoblinGold,,7418.791450365157,Solana
+Dexes,CryptoSwap,['Uniswap V2'],7396.057720925264,Binance
+Lending,Lending Pond,,7387.078646999999,Cardano
+Prediction Market,Entropyfi,,7363.901147790378,Polygon
+Dexes,Pear DAO,,7233.033979092683,Binance
+Dexes,Solanax,,7207.13653174602,Solana
+Dexes,DogMoney,['Uniswap V2'],6879.685711927417,Dogechain
+Dexes,Gamut Exchange,,6873.045419773847,Kava
+Dexes,ABcDeFX,['Solidly'],6866.2065378440375,Multi-Chain
+Farm,Carbon Finance,['ArbiNYAN'],6804.048843258656,Arbitrum
+Yield,CZODIAC,"['Synthetix', 'Olive.cash']",6799.456832464393,Binance
+Dexes,Amaterasu Finance,,6774.667548808398,Aurora
+Yield,Devil Finance,,6728.818998482583,Fantom
+Yield,Buffaloswap,,6631.485121513253,Binance
+Dexes,VITCSwap,,6549.139833705021,Vite
+Dexes,zkSwap Era,['Uniswap V2'],6547.436014051125,zkSync Era
+Synthetics,Crafting Finance,,6543.093528884628,Multi-Chain
+Dexes,Lunagens,,6536.054679315174,Lung
+Yield Aggregator,Earnmos,,6529.35837883725,Multi-Chain
+Dexes,OortSwap,['Uniswap V2'],6502.400524792233,REI
+Yield,PRISM Protocol,,6476.41158652774,Terra
+Yield,FATFIRE DEFI,,6450.36199941526,Fantom
+CDP,DEUS Finance,,6428.093057,Multi-Chain
+Indexes,Amun,,6361.2210464062955,Multi-Chain
+Dexes,Bitgert Swap,['Uniswap V2'],6304.317283467822,Bitgert
+Yield,Baker Guild,,6206.915605870761,Fantom
+Dexes,CowSwap smartBCH,['Uniswap V2'],6180.127883299223,smartBCH
+Yield,PureFi,,5986.341203169694,Multi-Chain
+Dexes,ZyberSwap Stableswap,,5975.459816154518,Arbitrum
+Yield,FantomPup,,5967.552484854624,Fantom
+Yield,Unknown,,5850.9069860787995,Binance
+Yield,Salem Finance,,5846.147154222527,Multi-Chain
+Algo-Stables,Chocodoge,['Tomb Finance'],5833.788712822397,Dogechain
+Dexes,DynastySwap,['Uniswap V2'],5785.362062399255,Pulse
+Lending,BNPL Pay,,5658.12578796428,Ethereum
+Dexes,SMBSwap V2,['Uniswap V2'],5636.584101969268,Binance
+Yield,Moneyrain Finance,,5603.411351142898,Fantom
+Synthetics,Kalata,,5351.721265815056,Binance
+Dexes,Algodex,,5342.689798910181,Algorand
+Yield,KingDefi,,5340.987748339552,Multi-Chain
+Yield Aggregator,Double Club,['Solidex'],5323.464029294125,Binance
+Yield,Waterfall Finance Yield,,5321.566240094297,Fantom
+Derivatives,Predy V3,,5177.816143724363,Arbitrum
+Dexes,casinocronos,['Uniswap V2'],5010.089850818245,Cronos
+Lending,Fortress Loans,['Compound'],4928.439654785019,Binance
+Dexes,HopSwap,['Uniswap V2'],4908.678393718412,Cronos
+Yield,RetroDefi,,4878.601755467986,Multi-Chain
+Launchpad,Infinity Pad,,4856.333132754981,Multi-Chain
+Lending,Agile Finance,"['Compound', 'Uniswap']",4847.189086631918,Cronos
+Yield,Defirex,,4718.082035521561,Ethereum
+Yield Aggregator,Unbanked,['Yearn Finance'],4678.389483682259,Fantom
+Dexes,EsdtMarket,,4615.191856290153,Elrond
+Yield,Polyquail,,4609.632941524127,Polygon
+Yield,OneRing,,4604.9851565136,Multi-Chain
+Yield,Scranton Finance,,4411.698460819441,Fantom
+Dexes,BeamSwap Stable AMM,['Uniswap V2'],4375.349829356563,Moonbeam
+Prediction Market,CatsLuck,,4310.477867438477,smartBCH
+Lending,BonqDAO,,4278.74560038488,Polygon
+Dexes,ElasticSwap,,4220.961753088035,Multi-Chain
+Synthetics,QIAN,,4213.912326106685,Ethereum
+Dexes,DogeMuskSwap,['Uniswap V2'],4211.8245358584245,Dogechain
+Yield,Blizzard,,4209.009810828075,Avalanche
+Lending,Sculptor Finance,['AAVE'],4071.8174602327244,Binance
+Gaming,Farm Hero,,4035.9742850121243,Multi-Chain
+Dexes,Gondola Finance,['Saddle Finance'],3995.2992507127706,Avalanche
+Synthetics,Argano,"['Frax', 'Uniswap']",3984.6883219485626,Polygon
+Derivatives,BayMax,['GMX'],3920.7190781169566,Avalanche
+Yield,Avaware,,3837.6862107212155,Avalanche
+Farm,CryptoYieldFocus,['Goose Finance'],3797.774054018352,Avalanche
+Dexes,Jujube Finance,['Uniswap V2'],3770.7084629182,Aptos
+Launchpad,Antex,,3768.1812606283597,Binance
+Dexes,Dino.Exchange,['Uniswap V2'],3744.756495186657,Binance
+Dexes,Greenhouse,,3663.0071129708413,Polygon
+Yield,Polyroll,,3655.6489050760583,Polygon
+Yield,BlackBird Finance,,3653.12002513007,Cronos
+Dexes,Milkydex,,3504.285155120362,Milkomeda
+Dexes,QuasarSwap,['Uniswap V2'],3422.224851637953,Nova Network
+Farm,Cemetery Finance,['Goose Finance'],3415.8230975546544,Fantom
+Dexes,FNDZ,,3408.653984202868,Binance
+Dexes,GooseFX,,3399.493207859715,Solana
+Yield,Seeder Finance,,3344.0201655723095,Binance
+Yield,KungFuu,['Titano Finance'],3253.867363722276,Fantom
+Dexes,Oni Exchange,['Uniswap V2'],3232.3443467143084,Binance
+Yield,ScareCrow Finance,,3214.1482177485923,Fantom
+Dexes,Bourbon Defi,['Uniswap V2'],3158.974217764141,Dogechain
+Dexes,VultureSwap,['Uniswap V2'],3133.8820917965436,Cronos
+Dexes,Hamburger Finance,['Solidly'],3133.6929648046016,Arbitrum
+Dexes,WraithSwap,['Uniswap V2'],3124.4670004321224,Fantom
+Yield,Kyrios Finance,,3096.3057375404574,Fantom
+Dexes,1Beam,['Uniswap V2'],3091.6605221767754,Moonbeam
+Dexes,EmberSwap,['Uniswap V2'],3023.233378325896,smartBCH
+Farm,Frog Nation Farm,['Goose Finance'],3020.575616938254,Fantom
+Yield Aggregator,Fastyield Finance,,3007.257200152426,Fantom
+Yield Aggregator,YieldHub Finance,['Beefy'],2972.4051832500004,Telos
+Dexes,TFM,['Terraswap'],2960.435816328439,Terra
+Farm,Milko Farm,['Goose Finance'],2953.064121077257,Milkomeda
+Farm,Astral Farm,['Goose Finance'],2947.973176183501,Fantom
+Dexes,FATExFi,['Uniswap V2'],2929.0733715800056,Polygon
+Privacy,Tonic Cash,['Tornado Cash'],2892.3702999999996,Multi-Chain
+Algo-Stables,V3S Finance,['Tomb Finance'],2871.251869888983,Cronos
+Lending,Tropykus zkEVM,['Aave'],2804.567335,Polygon zkEVM
+Dexes,IFSwap,['Uniswap V2'],2785.9566426452852,CSC
+Yield,Robo-Advisor for Yield,,2784.805476025426,Ethereum
+Dexes,Surfswap Stable AMM,['Uniswap V2'],2727.460310664818,Kava
+NFT Marketplace,Kanvas,,2726.122835079103,Kava
+Liquid Staking,Revert V3 Staker,,2702.8150961331776,Polygon
+Lending,Chee Finance,['Compound'],2701.5536134266326,Multi-Chain
+Dexes,Elephantdex,['Uniswap V2'],2690.834772215963,Harmony
+Dexes,ZigZag,,2567.867394730442,Arbitrum
+Yield,Summit Defi,,2527.1281490151437,Fantom
+Yield Aggregator,Superman Swap,,2505.0416050723184,Binance
+Algo-Stables,Nava finance,['Tomb Finance'],2498.662873240705,REI
+Derivatives,Syrup Finance,['GMX'],2481.4444952477033,Binance
+Algo-Stables,ChargeDeFi,,2444.2772717494977,Binance
+Dexes,SmolSwap,['Uniswap V2'],2374.689702434464,Cronos
+Yield,The Seed Farm,,2343.30120796824,Avalanche
+Bridge,Equito Finance,,2336.413878528968,Multi-Chain
+Dexes,FunBeast,['Uniswap V2'],2300.081573941069,Astar
+Dexes,AGS Finance,['Uniswap V2'],2259.3246077469407,Astar
+Yield,FireDAO,"['Yearn Finance', 'Compound']",2238.022698683106,Ethereum
+Dexes,HipPoWSwap,['Uniswap V2'],2218.296403990411,EthereumPoW
+Dexes,DefySwap,['Uniswap V2'],2144.6299181053546,Multi-Chain
+Derivatives,Logium,,2117.107204,Ethereum
+Yield,X Blue Finance,,2108.0186111225707,Arbitrum
+Dexes,Dove Swap V2,['Uniswap V2'],2105.0909099886694,Polygon zkEVM
+Yield,OctoLSD,,2095.49982546598,Ethereum
+NFT Marketplace,Pinyottas,,2059.556752991106,Ethereum
+Dexes,InfiniTORR,['Uniswap V2'],2045.1260674156063,Bittorrent
+Yield,Hermes Defi,,2023.0130750430326,Harmony
+Dexes,Oaswap,['Uniswap V2'],1943.8484161928561,Oasis
+Launchpad,zkBoost,,1940.9605729563114,zkSync Era
+CDP,UWU Protocol,,1922.41685526,Stacks
+Yield,LowcostSwap,['Goose Finance'],1871.8561207734624,Binance
+Reserve Currency,Hotfriescoin,,1827.9297950230787,Binance
+Farm,Nightmare Finance,['Goose Finance'],1825.5121496921847,Fantom
+CDP,North Pole,['Abracadabra'],1811.4236600791724,Avalanche
+Services,Kimochi,,1786.8760273949376,Binance
+Dexes,OBSwap,,1786.8516951165009,EOS
+Dexes,SkullSwap V2,['Uniswap V2'],1776.1553029660954,Fantom
+Payments,Parallel DAOfi,,1768.2,Multi-Chain
+Yield Aggregator,Scion Finance,,1767.6363059999999,Multi-Chain
+Dexes,Waterfall DEX,,1726.9056833254122,Arbitrum
+Services,TrustSwap,,1722.48891538824,Ethereum
+Reserve Currency,KronosDAO,,1718.1691125281804,Binance
+Dexes,SweetSwap,['Uniswap V2'],1711.7514229296874,Dogechain
+Farm,Phantom Finance,['Goose Finance'],1676.3429822570045,Fantom
+Algo-Stables,Pillar,,1676.3257852804438,Zilliqa
+Yield,Unamano,,1665.8073208747855,Ethereum
+Dexes,Yumiswap,['BabySwap'],1643.2736815090623,Astar
+Yield,LemonSwap,,1537.8387637075593,Binance
+Yield,OptiNyan,['ArbiNYAN'],1528.0798,Optimism
+Indexes,Helios Prime,,1521.3259603011256,Ethereum
+Dexes,SwapMatic,['Uniswap V2'],1515.8520225347163,Polygon
+Yield,Artemis Protocol,,1479.5997062664674,Harmony
+Dexes,Jupiter Swap,['Uniswap V2'],1468.2507968632597,Kava
+Dexes,Kasava Dex,['Uniswap V2'],1455.660214766316,Kava
+Dexes,TendieSwap,['Uniswap V2'],1453.3008364268824,Binance
+Payments,Kivach,,1447.0589280055324,Obyte
+Dexes,CoreSwap,['Uniswap V2'],1439.513700676272,CORE
+Yield,Cronofi Finance,,1412.8056986098736,Cronos
+Dexes,KDex,['Uniswap V2'],1400.0,Kava
+Dexes,Genesis Finance,['Uniswap V2'],1388.1597669238313,Cronos
+Dexes,EOSWAP Finance,['Uniswap V2'],1361.5366475901183,EOS EVM
+Yield,Bring.Finance,,1350.2736502652997,Multi-Chain
+Reserve Currency,SpiritDAO,['Olympus DAO'],1338.8583933347622,Avalanche
+Yield,Lavafall,,1338.2668246367089,Fantom
+Services,MintSwap,,1334.3044380221436,Avalanche
+Reserve Currency,Photon Protocol,['Olympus DAO'],1331.2730080183164,Binance
+Lending,Chintai,,1314.5548683990476,EOS
+Algo-Stables,Savanna Finance,['Tomb Finance'],1307.0004556156734,Cronos
+Derivatives,Satori Finance,,1297.01045865,Polygon zkEVM
+Farm,LIFE,['Goose Finance'],1274.0628837596053,Fantom
+Yield,Cupid Farm,['Morpheus Swap'],1239.190978927348,Fantom
+Lending,WaterLoan,['Aave'],1227.2889946414136,Multi-Chain
+NFT Lending,XCarnival,,1207.5471678459649,Ethereum
+Dexes,zkEVMSwap,['Uniswap V2'],1188.9877674270433,Polygon zkEVM
+Dexes,DarkSwap,['Uniswap V2'],1175.921877555903,Dogechain
+Yield,Meowswap,,1169.218391272067,Binance
+Yield,Multi-Chain Miner,,1164.459210649266,Multi-Chain
+Dexes,OpenBiSea,['Uniswap V2'],1159.4214224549742,Multi-Chain
+Farm,Fruits of Ryoshi,,1144.0321167428021,Dogechain
+Yield Aggregator,AutoBark,,1137.0416952754292,Dogechain
+Derivatives,Pegasus Finance,,1129.814998519125,Optimism
+Dexes,Koyo Finance,['Balancer'],1128.741279717415,Boba
+Dexes,PYEswap,['Uniswap V2'],1128.2954881047856,Binance
+Dexes,BrightSide,['Uniswap V2'],1127.635018335441,Milkomeda A1
+Farm,DogePup,,1125.7844747151316,Dogechain
+Yield Aggregator,Monolith,['Solidex'],1114.550782294673,Ethereum
+Farm,Mockingbird,['Goose Finance'],1103.8099056125695,Fantom
+Dexes,Palma Swap,['Uniswap V2'],1103.743678555113,CORE
+Options,Moret,,1095.943121,Polygon
+Bridge,BridgeKek,,1090.8228264695022,Multi-Chain
+Prediction Market,SageBet,,1082.956337,Arbitrum
+Dexes,AuraSwap,['Uniswap V2'],1040.837165659899,Polygon
+Derivatives,Phission Finance,['Synthetix'],1025.7537635694282,Ethereum
+Yield,Dubble Exchange,,1024.23062,Arbitrum
+Yield,Liquidrium,,1011.9358437961098,Multi-Chain
+Farm,Unirex Finance,['Goose Finance'],1003.181051905349,Fantom
+Privacy,Garble.Money,,1000.6146150000001,Tron
+Yield,Avatr,,994.4088673870774,Ethereum
+Dexes,Demodyfi,,990.7252809019908,Multi-Chain
+Yield,WaterDendy,,986.9637986568018,Arbitrum
+Dexes,TrainSwap,['Uniswap V2'],968.3290993026656,Arbitrum
+Services,SuperBots,,963.038185334994,Multi-Chain
+Lending,Stake1,,951.540627311268,Fantom
+Yield,OakFarm,,942.9529596978766,OKExChain
+Liquid Staking,MFIL Protocol,,942.66172303095,Filecoin
+Yield,Meso Finance,,918.1661678884208,Fantom
+Dexes,AliensFarm,['QuipuSwap'],907.9755059171453,Tezos
+Lending,Quickswap Lend,['Compound'],888.9215109887463,Polygon
+Farm,Zinax DAO,,884.3179980198558,Binance
+Farm,ClaySwap,,872.0141896553912,Binance
+Yield,GrassLand Finance,,845.5421661838718,Polygon
+Reserve Currency,Sierra,['Olympus DAO'],844.2695551980689,Avalanche
+Algo-Stables,Grave Finance,['Tomb Finance'],816.959438236799,Avalanche
+Reserve Currency,PirateDAO,['Olympus DAO'],810.3217816123761,Avalanche
+Yield,Swift Finance,,804.5079709552512,Avalanche
+Farm,Squid-Defi,['Goose Finance'],781.2250480643698,Fantom
+Dexes,MoonLift,['Uniswap V2'],772.3960081705599,Binance
+Dexes,Liquify,['Solidly'],768.9755554956258,CORE
+Dexes,Brise Swap,['Uniswap V2'],767.3236642431078,Bitgert
+Dexes,Juggler Red,['Uniswap V2'],741.6880328538433,Optimism
+Dexes,VampireSwap,['Uniswap V2'],737.3246311177172,Fantom
+Dexes,PowSea,['Uniswap V2'],714.7176122858463,EthereumPoW
+Lending,Fenrir Finance,['Compound'],702.3763793086475,Binance
+Yield,GemMine,,691.6177323908751,Fantom
+Yield,UniverseFTM,,690.390791442288,Fantom
+Yield,NumisMe,,679.5435328611247,Ethereum
+Dexes,HonkSwap,['Uniswap V2'],678.5863759692769,smartBCH
+Launchpad,WeStarter,,671.1553711868903,Heco
+Dexes,Bubbleswap V2,['Uniswap V2'],626.7602378707946,Hedera
+Lending,Metapoly,,620.840744,Multi-Chain
+Yield,Inbuilt Finance,,598.01217173872,Kava
+Lending,DeFiner,,574.9807824610115,Multi-Chain
+Farm,Knights of Fantom,,571.1967117936505,Fantom
+Yield,MyMine,,569.6702068459182,Fantom
+Dexes,Stronghands,['Uniswap V2'],550.337730590472,Multi-Chain
+Farm,Spectrumswap,['Goose Finance'],533.6979906258507,Binance
+Derivatives,KMex,['GMX'],525.5839069741133,Kava
+Dexes,Zolidly Finance,['Solidly'],494.2828943776241,zkSync Era
+Algo-Stables,GmCash,,468.8838911409626,Arbitrum
+Farm,BoneSwap,,467.36712725339237,Dogechain
+Dexes,ChampagneSwap,['Uniswap V2'],464.72006847593536,Binance
+Dexes,MetaSwap,['Uniswap V2'],463.5359288441341,EOS EVM
+CDP,TomoFinance,,443.0,TomoChain
+Reserve Currency,cantOHM,,433.0272293698784,Canto
+Yield,Pylon Protocol,,432.50090266999996,Terra
+Dexes,ko.one,['Uniswap V2'],428.0187181168203,zkSync Era
+Liquid Staking,Starfish Liquid Staking,,424.88313554999996,Astar
+Dexes,SmartDEXBCH,,424.1760026433553,smartBCH
+Yield Aggregator,DefiCurrent,['Beefy'],419.66602010311385,Multi-Chain
+Reserve Currency,Asgard Dao,['Olympus DAO'],409.24744172065533,Binance
+Dexes,Bhavish Finance,,408.5125362675621,Polygon
+Yield,Xray Swap,,394.25279053616197,Binance
+Leveraged Farming,JBC.Finance,,393.393998518365,Arbitrum
+Dexes,ZukeSwap,['Uniswap V2'],389.99390064869897,Loop
+Farm,The Don Finance,['Goose Finance'],388.9502483995235,Fantom
+Dexes,ElonSwap,['Uniswap V2'],383.58878789052045,Dogechain
+Dexes,AfraSwap,['Uniswap V2'],382.8528118431311,Binance
+Reserve Currency,SenpaiSwap,"['Olympus DAO', 'Uniswap']",381.42736507071027,Boba
+Yield,JaguarSwap,,373.2191847763069,Arbitrum
+Dexes,Octane Finance,,369.0441075422856,Binance
+Gaming,LazyFi,,368.482837956097,Near
+Yield,JetMine DAO,,365.92086678578266,Fantom
+Reserve Currency,Gamblefi,['Wonderland'],365.8176968550402,Cronos
+Lending,Evolve,['Tarot'],365.10602477517466,Cronos
+Yield,Emerald Swap,,356.01009355395274,Binance
+Yield,ViveLaBouje,,351.5856148227741,Fantom
+Dexes,Sahara Exchange,['Uniswap V2'],349.4020757061921,Oasis
+Dexes,Starbank,['Balancer'],342.3886328529297,Astar
+Farm,TroyDefi,,336.8293176971899,Binance
+Yield,Caribou Finance,,335.88379367897676,Fantom
+Dexes,Astar Exchange V3,['Uniswap V3'],334.776808607662,Astar
+Options,Risq Protocol,,324.18957914699024,Binance
+Dexes,KefirSwap,['Uniswap V2'],317.4142277284402,Kava
+Lending,0xLend,,315.863902560555,Kucoin
+Dexes,Solana Farm,['Uniswap V2'],308.3318589781387,Binance
+Dexes,Beluga Protocol,,302.41830674441,Solana
+Yield Aggregator,Earnifty,['Beefy'],297.8675007561551,Velas
+Yield,Mirai,,297.1135523818017,Polygon
+Dexes,JLSwap,['Uniswap V2'],292.2256174033943,EOS EVM
+Yield,Tenet,,288.58895553906905,Multi-Chain
+Algo-Stables,Wonderly Finance,['Tomb Finance'],286.3784739579227,Multi-Chain
+Dexes,Pandora Swap,['Uniswap V2'],285.3796738668537,Astar
+Lending,Bank of Cronos Loans,['Liquity'],283.5792,Cronos
+Reserve Currency,Exodia,['Olympus DAO'],281.04399782501093,Fantom
+Dexes,Frog Swap,['Uniswap V2'],277.8582291725518,Kekchain
+Dexes,SunFlower Finance,,274.7666382461321,Binance
+Yield,BastilleDeLaBouje,,274.6633881526176,Fantom
+Dexes,Sugar Swap,,269.2046126277073,zkSync Era
+Dexes,printyfinance,['Solidly'],255.51716515354482,Avalanche
+Yield,Ice Colony,,254.0660348144542,Polygon
+Farm,NewSpace Finance,['Goose Finance'],252.9269017083998,Binance
+Yield Aggregator,Just Yield,['Beefy'],249.7607592059451,Arbitrum
+Dexes,Inuswap,['Uniswap V2'],232.35113610128067,Dogechain
+Reserve Currency,WagmiDAO,"['Uniswap V2', 'Olympus DAO']",228.4638186564834,Harmony
+Derivatives,Vela Exchange,,227.845237,Arbitrum
+Dexes,StableDoin,['Uniswap V2'],217.05833217176001,Dogechain
+Lending,DeerFi,,214.90844531439802,Ethereum
+Farm,SunflowerSwap,,213.60978406154726,Moonbeam
+Farm,ApeDAO,,208.49034614141996,Fantom
+Lending,BencuFi,,202.60460518437,Metis
+Dexes,KekSwap,['Uniswap V2'],188.8258129364226,Kekchain
+Yield,BitANT,,188.0719,Optimism
+Lending,Omni Protocol,['Aave'],184.28998075372556,Ethereum
+Farm,Xmas Past,,178.98439293501312,Fantom
+Lending,Bitlend,['Compound'],177.7797802260675,Bittorrent
+Yield,MapleDeFi,,175.0919223832309,Binance
+Dexes,S Finance,,174.6229496368277,Ethereum
+Dexes,Goat Swap,,169.87832979590002,Solana
+Yield,BabyPig Finance,,162.54227668714978,Fantom
+CDP,Defi Halal,['Liquity'],162.37974852916633,Polygon
+Yield,CexDex,,161.0,Kava
+Algo-Stables,Orcus Finance,,160.94318499999997,Astar
+Derivatives,Deridex,,151.16089264188,Algorand
+Dexes,Adena Finance,['Uniswap V2'],150.10502851287416,Harmony
+Gaming,CatsApes,,148.63668,Kava
+Dexes,EggTartSwap,['Uniswap V2'],134.98156433966878,Harmony
+Yield Aggregator,MetaCrono,,134.640792574118,Cronos
+Dexes,AtoDEX,,130.18048519831498,Aptos
+Dexes,Philetairus Socius,['Uniswap V2'],129.7790864178253,Fantom
+Dexes,PanKUKU,['Uniswap V2'],127.36439091578669,Binance
+Dexes,Dogium Farm,['Uniswap V2'],125.49880500475375,Dogechain
+Derivatives,NEX,['GMX'],122.90543470806577,Multi-Chain
+Lending,DeFIL,,122.44963731435219,Multi-Chain
+Yield,The Dragon's Lair,,121.29369775243536,Avalanche
+Yield,CyberFantasyFembots,,113.23959871818666,Polygon
+Farm,The Story of Draco,['Goose Finance'],110.81035400349991,Fantom
+Synthetics,Zest Protocol,,106.40677649455428,Fantom
+Yield Aggregator,Traddify Arbitrage,,102.71461210989,Kava
+NFT Marketplace,NFT360,,100.0,Kava
+Algo-Stables,Milky Cow,,99.49584652724552,Milkomeda
+Dexes,CakeWSwap,['Uniswap V2'],99.19766121036074,EthereumPoW
+Dexes,EazySwap,,92.04987760856216,Pulse
+Algo-Stables,ShiftDollar,['Tomb Finance'],91.719234,Cronos
+Dexes,ApexSwap,['Uniswap V2'],86.76468169813735,Avalanche
+Reserve Currency,Life DAO,['Olympus DAO'],86.45939849091755,Avalanche
+Gaming,DogeClaw,,82.05287423346373,OKExChain
+Dexes,1Pulse,['Uniswap V2'],80.8020265101079,Pulse
+Yield,Hotpot Finance,,80.32039706380253,Binance
+Farm,WTFDOGE,,78.94253639487867,Dogechain
+Reserve Currency,MoonDao,['Olympus DAO'],77.07245203059017,Moonriver
+Gaming,Rising Undead,,75.632435,Kava
+Dexes,multiverse,,70.76881859575967,Kava
+Options Vault,TruFin,,69.80443221903141,Ethereum
+Yield Aggregator,Doge Compounder,['Beefy'],68.14942546344354,Dogechain
+Lending,Bodh Finance,['Compound'],64.89403813499459,Boba
+Farm,Procyon,,61.68116255994457,Cronos
+Lending,Flux Protocol,,60.48552790958286,Multi-Chain
+Options Vault,Silo Protocol,,60.41737557403201,Algorand
+Reserve Currency,MiniPanther DAO,['Olympus DAO'],59.29587292492157,Fantom
+Algo-Stables,Ruby Finance,['Tomb Finance'],58.45432436081575,Kava
+Yield,Feeder Finance,,57.92521407709463,Multi-Chain
+Lending,BaksDAO,,53.221382610298996,Binance
+Lending,Soda Protocol,,52.69439096032001,Solana
+Yield,Doora Inu,,50.5390729748045,Arbitrum
+Yield,Stablz,,49.571907465,Ethereum
+Dexes,Astarnova,['Uniswap V2'],48.39735984,Astar
+Reserve Currency,Amogus DAO,['Olympus DAO'],45.033952153450244,Avalanche
+Reserve Currency,Vortex DAO,['Olympus DAO'],43.08379510278732,Avalanche
+Yield,Zeus Finance,,43.023722614496286,Fantom
+Dexes,KSwap,['Uniswap V2'],42.89462775704661,Kava
+Yield,AvaViking,,42.767249528583505,Avalanche
+Yield Aggregator,Stakerz,['Beefy'],40.984215,Kava
+Yield,Defi Master,,37.031181491665876,Arbitrum
+Dexes,StrikeX,,36.79634940262456,Binance
+Dexes,zkDefi,['Uniswap V2'],36.471901012195254,Polygon zkEVM
+Farm,Camel Farm,,35.500829886060004,Arbitrum
+Yield,Ketchup Finance,['Goose Finance'],31.303503518988638,Binance
+Dexes,KapaSwap,['Uniswap V2'],30.866823808048064,Kava
+Dexes,SeaLightSwap,['Uniswap V2'],30.690848526406665,Polygon
+Indexes,Securo Finance,,30.382719765838488,Multi-Chain
+Privacy,Spiral Fi Mixer,,30.0,Multi-Chain
+Lending,SSAP,['AAVE'],28.875856331919632,Multi-Chain
+Farm,RubikFarm,,25.320429063740775,Binance
+Farm,KafiDAO,,23.998394374551822,Kava
+Yield,TreeHouse Finance,,23.69284741041495,Avalanche
+Algo-Stables,ArbiTen,['Tomb'],23.53549102391164,Arbitrum
+Lending,MilkyWay,['Compound'],22.652140862432002,Milkomeda
+Services,weBribe DAO,,22.433179604403925,Fantom
+Yield,kaDefi,,22.424190561600003,Kava
+Algo-Stables,2omb Finance,['Tomb Finance'],21.928814774136683,Fantom
+Liquid Staking,Genius,,21.829406953060587,Multi-Chain
+Farm,MixSwap Finance,['Goose Finance'],19.399459135030227,Binance
+Dexes,NowSwap,['Uniswap V2'],18.638962091814328,Ethereum
+Yield,Veritable DAO,,16.64782251402946,Polygon
+Yield,Coup Farm,,15.131897407855938,Avalanche
+Farm,Spade Finance,['Goose Finance'],12.8188173430561,Fantom
+Yield,Bouje Finance,,12.806221218358417,Fantom
+Reserve Currency,Mama DAO,['Olympus DAO'],12.746491389453977,Polygon
+Farm,FlatCoin DEX,,12.498251319975,Tron
+Dexes,AstroFi,['Uniswap V2'],11.839641613000401,Ethereum
+Yield,Chad Finance,,11.495902087253317,Fantom
+Reserve Currency,Papa DAO,['Olympus DAO'],10.89591472642422,Avalanche
+Reserve Currency,Tornadao,['Olympus DAO'],10.543079351477136,Avalanche
+Privacy,PrivCash,,10.0,Kava
+Prediction Market,Crypto Lottery,,8.220726200334678,Multi-Chain
+Dexes,OctoPow Finance,['Uniswap V2'],8.189471416886086,EthereumPoW
+Yield,Sapphire Mine,,7.612163615384555,Polygon
+Yield,Stipend,,7.462976,Kava
+Services,Astrowar Finance,,7.317847539076495,Harmony
+Yield,FTM Frens,,6.531610243545452,Fantom
+NFT Marketplace,OCTOplace,,6.429378994,Multi-Chain
+Yield,ORIO,,6.429269211211365,Ethereum
+Algo-Stables,Fei Protocol,,5.914606133071518,Ethereum
+Dexes,Zircon Gamma,['Uniswap V2'],5.83317358996651,Multi-Chain
+Reserve Currency,Paladin DAO,['Olympus DAO'],5.548140205449837,Binance
+Reserve Currency,Gaia DAO,['Olympus DAO'],4.8072918849,Avalanche
+Liquid Staking,Steak,,4.78612047688849,Terra
+Yield Aggregator,YieldBank,['Beefy'],4.16839455,Kava
+Yield,Beluga,,3.692403116264454,Multi-Chain
+Reserve Currency,TempoDAO,['Olympus DAO'],3.147100048171514,Avalanche
+Yield,Beekava,,2.962596167209409,Kava
+Dexes,EthwSwap,['Uniswap V2'],2.62305705765147,EthereumPoW
+Dexes,LanternSwap,,2.50903496458,Kava
+Reserve Currency,Vesq,['Olympus DAO'],2.450423067628889,Polygon
+CDP,mirrosset,,2.2002293006799922,Kava
+NFT Marketplace,pxswap,,2.090737,Kava
+Dexes,GxyPad,,2.0249617,zkSync Era
+Yield,Kavacave,,1.7701604743356851,Kava
+Yield,Undead Finance,,1.602712780787647,Fantom
+Staking Pool,MetaID,,1.5014367800000001,Kava
+Prediction Market,Fliperino,,1.499424539180095,EthereumPoW
+Reserve Currency,Alyx finance,['Olympus DAO'],1.482370460441508,Binance
+Reserve Currency,SashimiDAO,['Olympus DAO'],1.44910873318839,Avalanche
+Reserve Currency,Pidao Finance,['Olympus DAO'],1.155191032937179,Binance
+Yield Aggregator,Vacus Finance,,1.128667676573343,Avalanche
+Dexes,Phezzan Protocol,,1.046,Kava
+NFT Lending,Infy Protocol,,1.041666,Multi-Chain
+Yield,Monoceros,,1.00595,Kava
+Reserve Currency,Avalps,['Olympus DAO'],0.8413254151302,Avalanche
+Launchpad,Kavastarter,,0.830722516,Kava
+Yield,BakedPotatoes,,0.815192945904999,Dogechain
+Chain,Welnance,['Compound'],0.770203588599156,Binance
+Derivatives,Peaky Finance,['GMX'],0.7631788555184641,Binance
+Reserve Currency,Maximizer,['Olympus DAO'],0.6828053191786361,Avalanche
+Algo-Stables,Magnet DAO,['Olympus DAO'],0.6669423635742461,Avalanche
+Yield,ArbiCheems,,0.6052146374747931,Arbitrum
+Dexes,sevenswap,['Uniswap V2'],0.49118751250123005,Kava
+Reserve Currency,DeepSeaDAO,['Olympus DAO'],0.44791626579699906,Avalanche
+Reserve Currency,Nemesis DAO,['Olympus DAO'],0.43463153212575406,Binance
+Services,Ysmart,,0.434399,Kava
+Reserve Currency,SamoDAO,['Olympus DAO'],0.410920043033258,Binance
+Yield,Kumu Finance,,0.373262818038815,Klaytn
+Reserve Currency,Houses of Rome,['Olympus DAO'],0.34974730835182005,Moonriver
+Reserve Currency,Snowdog,['Olympus DAO'],0.292268808390867,Avalanche
+Dexes,Kyborg Exchange,['Uniswap V3'],0.287266361167796,Arbitrum
+Reserve Currency,TaiChi,['Olympus DAO'],0.18049997865164003,Binance
+Yield Aggregator,Dinosaur.Finance,['Beefy'],0.14430990331891302,Arbitrum
+Lending,PaperDAO,['Compound'],0.142119534605779,EthereumPoW
+Services,Manifest,['Olympus DAO'],0.128946340743185,Ethereum
+CDP,Cashio,,0.066480456386605,Solana
+Dexes,RAIDSHIFT Marketplace,,0.0599769,Tron
+Yield,Powerbomb Finance,,0.059342144475000004,Multi-Chain
+Yield Aggregator,Cthulhu.Finance,['Reaper Farm'],0.05899758681498601,Optimism
+Launchpad,BCHPad,,0.0435450162,smartBCH
+Dexes,Omax Swap,['Uniswap V2'],0.022082409150419,Omax
+Reserve Currency,Swing DAO,['Olympus DAO'],0.020738469595829003,Avalanche
+Reserve Currency,Euphoria,['Olympus DAO'],0.01617119490637,Harmony
+CDP,Parasset,,0.012291581508636,Ethereum
+Yield,mStable Yield,,0.011271609708337,Ethereum
+Reserve Currency,Kronos DAO,['Olympus DAO'],0.011176850923974,Klaytn
+Services,Talent Protocol,,0.008322133748884,Celo
+Reserve Currency,Minotaur Money,['Olympus DAO'],0.005168288626927001,Cronos
+CDP,Real Protocol,['Liquity'],0.0033527663095300002,EthereumPoW
+Dexes,Selfex,['Uniswap V2'],0.002000616046092,Kava
+Dexes,Direct Exchange,['Uniswap V2'],0.001999615,Kava
+Derivatives,JOJO,,0.0017338060557670002,Binance
+Reserve Currency,InvictusDAO,['Olympus DAO'],0.001633,Solana
+Reserve Currency,OneDAO Finance,['Olympus DAO'],0.0013273558233450001,Harmony
+CDP,Nirvana,,0.000121974205,Solana
+Dexes,FunDex,['Uniswap V2'],9.1789686529e-05,Multi-Chain
+Services,Metavault DAO,,6.9e-05,Multi-Chain
+Bridge,Lago Bridge,,5.1e-05,Ethereum
+Reserve Currency,ValhallaDAO,['Olympus DAO'],1.7504133383000002e-05,Avalanche
+Lending,Sohei,['Compound'],1.999615001e-06,Arbitrum
+Dexes,MinerSwap,['Solidly'],1.131683771e-06,EthereumPoW
+Reserve Currency,Ice DAO,['Olympus DAO'],4.3574999999999997e-07,Avalanche
+Oracle,Nest Protocol Staking,,9.270497952e-09,Multi-Chain
+Reserve Currency,Dios Finance,['Olympus DAO'],6.235381973782246e-10,Binance
+Reserve Currency,ZeroShift,['Olympus DAO'],1.6237834e-11,Avalanche
+Yield,Asgard Finance,,2.7356894182267003e-12,Ethereum
+Reserve Currency,Piggybank DAO,['Olympus DAO'],6.69669e-16,Avalanche
+Algo-Stables,Fantasm,,2.90869e-19,Fantom
